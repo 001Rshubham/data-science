@@ -1,0 +1,1001 @@
+Order ID,Customer Name,Gender,Age,Country,Product,Category,Quantity,Price per Unit,Purchase Date,Payment Method,Discount (%),Delivery Time (Days),Returned
+1,Crystal Bowman,Male,24,UK,Laptop Stand,Electronics,2,25,2025-04-08,Credit Card,5,5,No
+2,William Garcia,Male,46,USA,Resistance Bands,Fitness,2,12.5,2024-12-19,PayPal,0,3,No
+3,Nathaniel Gutierrez,Female,40,China,Water Bottle,Fitness,4,10,2024-07-01,Credit Card,0,4,No
+4,Amy Buck,Female,25,Germany,Protein Powder,Fitness,5,30,2024-05-30,Credit Card,0,2,No
+5,Diana Torres,Male,37,China,Bluetooth Speaker,Electronics,2,35.5,2024-08-07,Credit Card,5,3,No
+6,Dakota Gomez,Male,22,Mexico,Wireless Mouse,Electronics,3,15.99,2024-10-02,Debit Card,20,6,No
+7,Daniel Oliver,Male,24,Australia,Laptop Stand,Electronics,4,25,2025-02-08,Credit Card,15,5,No
+8,Jessica Williams,Male,31,Australia,Yoga Mat,Fitness,5,20,2024-08-05,Credit Card,15,2,Yes
+9,Robert Jackson,Male,43,India,Running Shoes,Footwear,4,65,2024-10-01,Credit Card,5,7,No
+10,Yolanda Rose,Female,46,France,Yoga Mat,Fitness,4,20,2024-07-02,Credit Card,20,5,No
+11,Michael Jones,Male,50,India,Laptop Stand,Electronics,3,25,2024-12-23,Credit Card,20,5,No
+12,Jacob Smith,Female,30,India,Water Bottle,Fitness,2,10,2025-01-14,Debit Card,0,7,No
+13,Michael Schroeder,Male,26,Australia,Headphones,Electronics,3,50,2024-06-17,Debit Card,20,5,No
+14,Sandra Thornton,Female,42,Mexico,Yoga Mat,Fitness,5,20,2024-11-01,Credit Card,15,4,No
+15,Yolanda Barker,Female,27,China,Protein Powder,Fitness,2,30,2024-10-29,PayPal,0,2,No
+16,Jessica Kelley,Female,50,France,Bluetooth Speaker,Electronics,3,35.5,2024-10-09,PayPal,5,6,No
+17,Christian Proctor,Male,23,France,Protein Powder,Fitness,5,30,2024-08-27,PayPal,10,3,No
+18,Christopher Bean,Male,36,Germany,Wireless Mouse,Electronics,4,15.99,2024-07-30,Debit Card,0,4,No
+19,Benjamin Randall,Male,59,Germany,Water Bottle,Fitness,2,10,2024-10-05,PayPal,0,6,No
+20,Shane Blackburn,Female,30,Mexico,Protein Powder,Fitness,1,30,2024-06-30,PayPal,10,2,Yes
+21,Elaine Ramirez,Male,41,UK,Bluetooth Speaker,Electronics,4,35.5,2024-08-25,Credit Card,15,6,No
+22,Chase Zimmerman,Female,24,Germany,Running Shoes,Footwear,2,65,2025-03-08,Debit Card,10,2,No
+23,Robert Nelson,Male,57,Canada,Smart Watch,Electronics,5,120,2024-12-31,Credit Card,10,5,No
+24,Kyle Edwards,Male,31,Canada,Protein Powder,Fitness,2,30,2025-01-14,Debit Card,5,3,No
+25,George Williams,Male,52,USA,Water Bottle,Fitness,2,10,2024-06-20,Debit Card,0,6,No
+26,Sergio Gonzalez,Female,30,UAE,Headphones,Electronics,2,50,2024-04-30,Debit Card,10,6,No
+27,Angela Alvarez,Female,41,UK,Running Shoes,Footwear,2,65,2024-05-10,PayPal,20,3,No
+28,Justin Larson,Male,25,France,Smart Watch,Electronics,4,120,2024-05-28,Debit Card,5,3,No
+29,Heather Huang,Female,52,Canada,Bluetooth Speaker,Electronics,5,35.5,2024-06-04,Credit Card,0,3,No
+30,Paul Benson,Female,18,Germany,Wireless Mouse,Electronics,2,15.99,2024-11-02,PayPal,5,2,No
+31,Steve Robinson,Male,46,Mexico,Smart Watch,Electronics,2,120,2024-11-27,Credit Card,15,5,No
+32,Kayla Heath,Male,21,USA,Yoga Mat,Fitness,1,20,2025-04-02,Debit Card,20,3,No
+33,Martha Carson,Male,54,Germany,Smart Watch,Electronics,1,120,2025-02-15,Debit Card,20,5,No
+34,Howard Price,Female,35,India,Wireless Mouse,Electronics,3,15.99,2024-09-10,PayPal,10,6,No
+35,Jennifer Roberts,Male,54,Australia,Smart Watch,Electronics,2,120,2024-09-03,Credit Card,15,3,No
+36,Jesse Thompson,Male,27,USA,Bluetooth Speaker,Electronics,2,35.5,2025-02-13,Credit Card,5,2,No
+37,Sheila Brown,Male,46,Mexico,Resistance Bands,Fitness,4,12.5,2025-01-09,PayPal,20,2,No
+38,Janet Andrews,Female,41,Australia,Headphones,Electronics,1,50,2025-01-02,PayPal,15,5,No
+39,Chelsey Arias,Male,34,Australia,Yoga Mat,Fitness,3,20,2024-07-15,PayPal,5,2,No
+40,Hector Kelley,Male,50,China,Bluetooth Speaker,Electronics,5,35.5,2024-09-01,PayPal,0,2,No
+41,Nicholas Cross,Male,53,Canada,Headphones,Electronics,3,50,2025-04-06,Debit Card,0,4,No
+42,Kayla Tyler,Female,18,France,Resistance Bands,Fitness,1,12.5,2024-11-25,Debit Card,20,5,No
+43,Martin Rice,Male,22,Australia,Running Shoes,Footwear,5,65,2025-03-19,Debit Card,20,4,No
+44,Diana Compton,Female,33,UK,Headphones,Electronics,5,50,2024-06-16,Credit Card,10,2,No
+45,Vanessa Townsend,Female,55,USA,Bluetooth Speaker,Electronics,3,35.5,2024-06-15,Credit Card,20,3,No
+46,Dwayne Parks,Male,18,USA,Resistance Bands,Fitness,4,12.5,2024-11-06,Debit Card,0,3,No
+47,Erin Willis,Male,59,India,Headphones,Electronics,2,50,2025-01-01,PayPal,5,3,Yes
+48,Peggy Mahoney,Male,33,France,Protein Powder,Fitness,5,30,2024-04-21,Credit Card,10,6,No
+49,Matthew Miller,Female,43,India,Protein Powder,Fitness,1,30,2025-01-25,Credit Card,20,4,No
+50,Shirley Price,Female,52,Canada,Running Shoes,Footwear,1,65,2025-02-13,Credit Card,5,7,No
+51,Bryan Wilkinson,Female,35,UK,Laptop Stand,Electronics,5,25,2024-06-16,PayPal,0,4,No
+52,Jordan Arroyo,Female,27,UAE,Yoga Mat,Fitness,3,20,2024-11-20,PayPal,0,3,No
+53,Tanya Williams,Female,29,Mexico,Headphones,Electronics,2,50,2025-03-28,Debit Card,5,3,No
+54,Janet Blake,Male,48,UAE,Running Shoes,Footwear,2,65,2024-05-16,Credit Card,15,7,No
+55,Natalie Wagner,Female,54,Mexico,Smart Watch,Electronics,1,120,2024-07-06,Credit Card,0,6,No
+56,Tyler Little,Male,23,UK,Bluetooth Speaker,Electronics,2,35.5,2024-09-21,PayPal,5,4,Yes
+57,Jeffrey Townsend MD,Male,25,France,Protein Powder,Fitness,4,30,2024-05-25,PayPal,0,3,No
+58,Dennis Ward,Male,44,USA,Wireless Mouse,Electronics,1,15.99,2024-06-30,Credit Card,0,5,No
+59,Jessica Joyce,Male,52,India,Wireless Mouse,Electronics,4,15.99,2025-04-07,Debit Card,5,6,No
+60,Alexis Smith,Female,30,UK,Running Shoes,Footwear,5,65,2024-08-31,Credit Card,0,7,No
+61,Rebecca Tran,Female,50,Canada,Laptop Stand,Electronics,2,25,2024-05-04,Debit Card,20,5,No
+62,John Cordova,Male,35,Mexico,Headphones,Electronics,2,50,2024-10-22,Debit Card,5,7,No
+63,Katherine Mcintyre,Female,35,Australia,Smart Watch,Electronics,5,120,2025-02-22,PayPal,5,7,Yes
+64,Paul Simpson,Female,55,India,Resistance Bands,Fitness,4,12.5,2025-02-13,Credit Card,15,3,No
+65,Melissa Mcguire,Male,44,UK,Wireless Mouse,Electronics,3,15.99,2024-11-21,Credit Card,5,7,No
+66,Gary Bond,Male,44,India,Water Bottle,Fitness,1,10,2024-11-14,Credit Card,0,7,No
+67,Alisha Owen,Male,59,France,Headphones,Electronics,5,50,2025-01-19,Credit Card,5,3,No
+68,Joshua Lopez,Female,18,USA,Laptop Stand,Electronics,4,25,2024-08-25,PayPal,10,4,Yes
+69,James Miller,Male,58,India,Running Shoes,Footwear,1,65,2024-10-23,PayPal,15,2,No
+70,Cindy Baker,Female,30,UK,Running Shoes,Footwear,1,65,2024-11-07,Debit Card,5,3,No
+71,Christopher Wells,Male,46,UAE,Bluetooth Speaker,Electronics,2,35.5,2025-01-05,Credit Card,15,4,No
+72,Sarah Pitts,Male,37,Germany,Yoga Mat,Fitness,3,20,2024-05-13,Debit Card,10,2,No
+73,Paula Anderson,Female,59,Germany,Protein Powder,Fitness,3,30,2025-01-27,Debit Card,0,6,No
+74,Dr. Kyle Marshall,Female,46,UAE,Yoga Mat,Fitness,1,20,2025-02-08,Credit Card,20,7,No
+75,Amanda Simmons,Male,46,China,Resistance Bands,Fitness,2,12.5,2024-04-19,Debit Card,15,6,No
+76,Michael Horn,Male,41,Germany,Bluetooth Speaker,Electronics,5,35.5,2024-10-27,PayPal,0,3,No
+77,Jason Sutton,Male,28,China,Headphones,Electronics,2,50,2024-07-24,Debit Card,5,5,No
+78,Jenny Robinson,Female,18,Mexico,Wireless Mouse,Electronics,5,15.99,2024-12-03,Credit Card,15,2,No
+79,Dominique Rice,Male,51,China,Running Shoes,Footwear,3,65,2024-12-01,PayPal,10,7,Yes
+80,David Harrell,Male,18,Germany,Protein Powder,Fitness,3,30,2025-02-18,PayPal,20,5,No
+81,Miranda Chapman,Female,41,UAE,Resistance Bands,Fitness,3,12.5,2025-02-01,Debit Card,5,3,No
+82,Anna Wise,Female,38,UAE,Resistance Bands,Fitness,4,12.5,2024-08-15,Credit Card,5,5,No
+83,Angela Hernandez,Male,49,France,Water Bottle,Fitness,3,10,2024-09-30,Credit Card,5,5,No
+84,Jerry Miller,Male,26,Australia,Smart Watch,Electronics,5,120,2024-08-01,PayPal,20,7,No
+85,Kevin Pierce,Female,54,China,Yoga Mat,Fitness,1,20,2024-11-20,Credit Card,20,6,Yes
+86,Bradley Cooper,Male,41,USA,Protein Powder,Fitness,5,30,2025-02-25,Debit Card,10,3,No
+87,Thomas Garrett,Male,29,Canada,Bluetooth Speaker,Electronics,5,35.5,2025-01-25,Credit Card,20,3,No
+88,Melissa Rios,Male,25,Australia,Yoga Mat,Fitness,2,20,2024-09-27,PayPal,15,7,No
+89,Craig Anderson,Female,55,China,Running Shoes,Footwear,1,65,2024-05-17,Credit Card,15,6,No
+90,Dillon Bates,Female,32,UK,Running Shoes,Footwear,2,65,2025-03-22,PayPal,10,2,No
+91,Kathy White,Female,60,UK,Bluetooth Speaker,Electronics,4,35.5,2024-11-21,PayPal,10,3,No
+92,Aaron Palmer,Female,34,Germany,Protein Powder,Fitness,3,30,2024-05-12,Debit Card,15,5,No
+93,Jade Wells,Male,20,France,Wireless Mouse,Electronics,3,15.99,2024-05-04,Debit Card,5,6,No
+94,James Long,Male,39,India,Laptop Stand,Electronics,1,25,2025-01-14,Credit Card,0,2,No
+95,Greg Guerrero,Male,49,UK,Yoga Mat,Fitness,5,20,2024-05-27,Credit Card,0,7,No
+96,Jill Franco,Female,38,Australia,Wireless Mouse,Electronics,5,15.99,2025-04-02,Credit Card,20,2,No
+97,Jacqueline Mitchell,Female,38,Mexico,Resistance Bands,Fitness,3,12.5,2025-01-09,PayPal,0,2,No
+98,Brittany Robbins,Male,42,UAE,Water Bottle,Fitness,1,10,2025-03-22,PayPal,5,2,No
+99,Louis Sandoval,Female,43,India,Resistance Bands,Fitness,1,12.5,2024-10-28,Credit Card,0,6,No
+100,Todd Norman,Male,43,Mexico,Headphones,Electronics,3,50,2025-03-22,Debit Card,0,5,No
+101,Tyler Jones,Female,18,Australia,Headphones,Electronics,1,50,2024-04-17,Debit Card,5,3,No
+102,David Fowler,Male,35,India,Water Bottle,Fitness,3,10,2024-04-29,Debit Card,0,2,No
+103,Lisa Johnson,Female,23,UK,Bluetooth Speaker,Electronics,5,35.5,2025-03-21,Credit Card,10,6,No
+104,Todd Garcia,Male,50,Australia,Smart Watch,Electronics,2,120,2024-06-18,Debit Card,20,4,Yes
+105,Scott Sandoval,Male,25,Canada,Bluetooth Speaker,Electronics,2,35.5,2024-10-16,PayPal,10,6,No
+106,Angela Williams,Male,53,USA,Resistance Bands,Fitness,4,12.5,2025-01-30,Debit Card,20,7,No
+107,Jamie Montgomery,Female,52,France,Resistance Bands,Fitness,2,12.5,2025-01-02,Debit Card,15,4,No
+108,Xavier Smith,Male,42,USA,Protein Powder,Fitness,2,30,2024-05-23,Debit Card,10,5,No
+109,Steven Lopez,Male,47,Mexico,Wireless Mouse,Electronics,2,15.99,2024-08-24,Credit Card,5,6,Yes
+110,Kelly Acosta,Female,46,China,Headphones,Electronics,5,50,2024-05-08,Credit Card,15,7,No
+111,Michael Hart,Female,28,USA,Bluetooth Speaker,Electronics,4,35.5,2025-03-07,Debit Card,10,3,No
+112,Kristy Trujillo,Male,37,France,Yoga Mat,Fitness,4,20,2024-12-29,Credit Card,5,3,No
+113,Eric Brown,Male,48,UAE,Headphones,Electronics,1,50,2025-03-27,PayPal,0,7,No
+114,Christine Salazar,Female,55,Canada,Protein Powder,Fitness,3,30,2024-11-30,Debit Card,5,2,No
+115,Jeffrey Bruce,Male,32,Australia,Running Shoes,Footwear,2,65,2024-08-05,PayPal,5,3,No
+116,Catherine Jones,Male,58,Australia,Laptop Stand,Electronics,3,25,2024-11-21,PayPal,20,3,No
+117,Andre Morgan,Male,33,Germany,Wireless Mouse,Electronics,5,15.99,2024-12-26,Credit Card,10,7,No
+118,Eric Nelson,Female,23,France,Protein Powder,Fitness,2,30,2024-12-31,PayPal,15,5,No
+119,Tracy Lee,Female,50,Germany,Smart Watch,Electronics,4,120,2025-03-09,Credit Card,15,6,No
+120,Frances Warren,Male,27,China,Headphones,Electronics,2,50,2025-02-02,Debit Card,15,6,No
+121,John Curry,Female,52,Mexico,Laptop Stand,Electronics,3,25,2024-12-29,PayPal,0,3,No
+122,Barbara Reed,Male,51,USA,Protein Powder,Fitness,2,30,2024-08-11,PayPal,15,4,No
+123,Nancy Davis,Female,43,Mexico,Wireless Mouse,Electronics,1,15.99,2024-12-20,Debit Card,20,5,No
+124,Mitchell Lopez,Female,51,USA,Smart Watch,Electronics,1,120,2024-04-18,Credit Card,5,5,No
+125,Benjamin Phillips,Male,54,India,Wireless Mouse,Electronics,2,15.99,2024-12-19,PayPal,20,2,No
+126,Michael Reyes,Female,52,France,Yoga Mat,Fitness,5,20,2024-05-24,PayPal,15,2,No
+127,John Davies,Male,23,France,Running Shoes,Footwear,1,65,2024-04-28,Credit Card,15,5,No
+128,Gregory Jones,Male,35,Mexico,Wireless Mouse,Electronics,1,15.99,2024-08-05,Credit Card,15,3,No
+129,Debra Rios,Male,25,Germany,Running Shoes,Footwear,3,65,2024-12-25,Debit Card,0,7,No
+130,Jessica Soto,Female,49,UK,Yoga Mat,Fitness,5,20,2025-03-12,Debit Card,15,3,No
+131,Angela Wilkins,Female,29,France,Running Shoes,Footwear,4,65,2024-11-22,PayPal,15,4,No
+132,Destiny Erickson,Male,40,India,Bluetooth Speaker,Electronics,3,35.5,2024-12-03,Credit Card,10,6,No
+133,Helen Parrish,Female,56,Canada,Wireless Mouse,Electronics,1,15.99,2024-10-03,PayPal,20,5,No
+134,Joseph Lane,Female,43,Canada,Laptop Stand,Electronics,1,25,2024-08-14,Credit Card,10,6,No
+135,Amy Kelly,Male,23,Canada,Smart Watch,Electronics,1,120,2025-02-19,Debit Card,15,3,No
+136,Michael Wright,Female,44,Australia,Water Bottle,Fitness,3,10,2024-08-21,PayPal,15,2,No
+137,Lynn Malone,Male,56,USA,Resistance Bands,Fitness,4,12.5,2024-11-08,Credit Card,5,4,No
+138,Michael Robinson,Male,25,UAE,Water Bottle,Fitness,2,10,2025-04-09,Credit Card,10,3,No
+139,Laurie Strickland,Female,25,USA,Bluetooth Speaker,Electronics,5,35.5,2024-11-15,Credit Card,15,7,No
+140,Angela Peterson,Female,45,France,Yoga Mat,Fitness,3,20,2025-04-03,Credit Card,10,5,No
+141,Linda Webb,Male,56,UAE,Protein Powder,Fitness,1,30,2024-10-19,Credit Card,0,4,Yes
+142,Brittany King,Female,59,USA,Smart Watch,Electronics,2,120,2025-02-08,Credit Card,0,2,No
+143,Robert Simpson,Male,31,Germany,Water Bottle,Fitness,3,10,2024-06-13,Credit Card,0,2,No
+144,Robert Garcia,Female,55,China,Laptop Stand,Electronics,5,25,2024-10-18,Debit Card,5,4,No
+145,Troy Hall,Male,51,USA,Resistance Bands,Fitness,5,12.5,2025-03-06,PayPal,10,4,No
+146,Jason Washington,Male,36,UAE,Bluetooth Speaker,Electronics,1,35.5,2024-08-10,Credit Card,0,7,No
+147,Sara Chang,Female,58,Germany,Wireless Mouse,Electronics,4,15.99,2025-04-12,PayPal,10,7,No
+148,Heather Davis,Female,27,China,Bluetooth Speaker,Electronics,1,35.5,2024-06-23,Debit Card,5,6,No
+149,Joe Sellers,Female,23,Mexico,Smart Watch,Electronics,3,120,2025-03-31,Debit Card,5,7,No
+150,Patricia Valdez,Male,55,UAE,Running Shoes,Footwear,4,65,2024-09-10,Credit Card,15,2,No
+151,Darrell Thomas,Female,23,Australia,Wireless Mouse,Electronics,4,15.99,2024-05-25,Credit Card,5,5,No
+152,Jeremy Roberts,Female,22,Australia,Bluetooth Speaker,Electronics,2,35.5,2025-03-09,Debit Card,15,5,No
+153,Nancy Boyd,Male,26,Germany,Yoga Mat,Fitness,5,20,2025-02-15,Credit Card,20,4,No
+154,Kari Vazquez,Male,36,UAE,Laptop Stand,Electronics,1,25,2024-07-01,Credit Card,10,4,No
+155,Amy Jones,Male,50,Germany,Bluetooth Speaker,Electronics,1,35.5,2024-07-30,PayPal,10,7,No
+156,Seth Leonard,Female,40,Mexico,Smart Watch,Electronics,1,120,2025-03-08,Debit Card,15,5,No
+157,James Cowan,Male,18,Mexico,Resistance Bands,Fitness,5,12.5,2024-04-24,Credit Card,10,6,No
+158,Andrea Hubbard,Male,58,UAE,Running Shoes,Footwear,3,65,2024-07-12,Credit Card,0,6,No
+159,Brian Williams,Female,46,Mexico,Protein Powder,Fitness,3,30,2024-05-28,PayPal,15,6,No
+160,Tommy Benitez,Female,59,Germany,Running Shoes,Footwear,3,65,2025-03-06,Credit Card,20,4,No
+161,William Miller,Male,18,Australia,Laptop Stand,Electronics,1,25,2025-02-16,Debit Card,5,3,No
+162,Julia Cruz,Female,32,USA,Running Shoes,Footwear,2,65,2025-02-20,Credit Card,10,7,No
+163,Amanda Torres,Male,19,USA,Bluetooth Speaker,Electronics,3,35.5,2024-09-10,PayPal,0,2,No
+164,Mary Brown,Male,34,UAE,Water Bottle,Fitness,1,10,2024-04-26,Debit Card,5,5,No
+165,Seth Page,Female,47,France,Yoga Mat,Fitness,2,20,2024-08-26,Credit Card,5,3,No
+166,David Davis,Female,36,Mexico,Headphones,Electronics,3,50,2024-10-06,Credit Card,20,7,No
+167,Jade Lester,Female,59,Canada,Smart Watch,Electronics,4,120,2025-03-08,Debit Card,5,7,No
+168,April Ellis,Male,23,France,Wireless Mouse,Electronics,1,15.99,2024-11-20,Debit Card,5,6,No
+169,Nicholas Davis,Female,52,UAE,Resistance Bands,Fitness,4,12.5,2024-05-30,PayPal,20,6,No
+170,Phillip Grant,Male,36,UAE,Water Bottle,Fitness,3,10,2024-06-27,PayPal,10,5,No
+171,Matthew Solis,Male,36,Mexico,Wireless Mouse,Electronics,2,15.99,2024-08-10,PayPal,10,4,No
+172,Sarah Smith,Female,35,Mexico,Resistance Bands,Fitness,2,12.5,2025-01-13,PayPal,5,6,No
+173,Stephen Webster,Male,60,Germany,Protein Powder,Fitness,3,30,2025-04-03,Credit Card,0,7,No
+174,Denise Lewis,Male,49,France,Water Bottle,Fitness,4,10,2024-08-10,Debit Card,0,2,No
+175,Michael Pena,Female,55,Germany,Running Shoes,Footwear,4,65,2024-05-19,PayPal,20,6,No
+176,Jane Brown,Male,36,China,Resistance Bands,Fitness,5,12.5,2024-04-24,PayPal,10,4,No
+177,Karen Bryant,Female,31,USA,Protein Powder,Fitness,5,30,2024-06-18,PayPal,10,6,No
+178,Justin Moses,Male,21,Australia,Wireless Mouse,Electronics,2,15.99,2024-06-02,Debit Card,5,2,No
+179,Belinda Perkins,Male,36,USA,Resistance Bands,Fitness,3,12.5,2024-05-20,Credit Card,0,5,No
+180,Miranda Murphy,Male,43,Canada,Water Bottle,Fitness,1,10,2024-07-07,Debit Card,10,6,No
+181,Mary Norman,Male,31,China,Water Bottle,Fitness,3,10,2024-11-14,PayPal,20,7,No
+182,Sean Lopez,Male,26,Australia,Protein Powder,Fitness,5,30,2024-04-28,PayPal,15,6,No
+183,Shane Craig,Male,60,France,Running Shoes,Footwear,4,65,2024-12-26,PayPal,15,4,No
+184,Jason Tapia,Female,40,Australia,Protein Powder,Fitness,1,30,2024-09-04,Credit Card,0,5,No
+185,David Snow,Female,42,China,Yoga Mat,Fitness,4,20,2024-05-12,Credit Card,5,6,No
+186,David Collier,Female,56,Mexico,Laptop Stand,Electronics,1,25,2024-09-20,Debit Card,20,2,Yes
+187,Gregory Wallace,Female,45,UK,Protein Powder,Fitness,2,30,2025-03-31,PayPal,10,4,Yes
+188,Kelsey Norris,Male,40,Germany,Yoga Mat,Fitness,4,20,2024-08-03,Credit Card,10,5,No
+189,Tara Morales,Male,46,Canada,Laptop Stand,Electronics,2,25,2024-05-23,Debit Card,20,3,No
+190,Gloria Pearson,Male,26,Australia,Smart Watch,Electronics,2,120,2024-05-03,PayPal,15,6,No
+191,Angie Davis,Male,42,Mexico,Headphones,Electronics,4,50,2024-08-12,Credit Card,5,5,No
+192,Robert King,Male,58,France,Protein Powder,Fitness,3,30,2024-07-10,PayPal,10,2,Yes
+193,Steven Young,Male,20,France,Resistance Bands,Fitness,5,12.5,2024-09-20,PayPal,15,3,No
+194,Kevin Jones,Female,38,USA,Wireless Mouse,Electronics,5,15.99,2024-06-21,Credit Card,5,5,No
+195,Juan Morgan,Male,25,Mexico,Protein Powder,Fitness,3,30,2025-01-30,Credit Card,20,2,No
+196,Michael Robinson,Female,59,Germany,Headphones,Electronics,1,50,2024-07-19,PayPal,15,5,No
+197,Omar Gilmore,Female,54,UK,Wireless Mouse,Electronics,2,15.99,2024-11-14,PayPal,0,5,No
+198,Monique Chen,Female,40,USA,Resistance Bands,Fitness,1,12.5,2024-11-27,PayPal,0,4,No
+199,Michelle Martinez,Male,33,Canada,Water Bottle,Fitness,5,10,2024-08-03,PayPal,15,6,No
+200,Pamela Abbott,Female,44,UAE,Yoga Mat,Fitness,3,20,2025-03-15,PayPal,10,4,No
+201,Morgan Ferguson,Female,50,Mexico,Running Shoes,Footwear,2,65,2024-06-21,PayPal,0,4,No
+202,Amy Lambert,Female,40,UK,Wireless Mouse,Electronics,2,15.99,2025-03-09,Credit Card,10,5,No
+203,Gerald Conley,Male,59,UK,Smart Watch,Electronics,4,120,2024-10-11,Debit Card,5,2,Yes
+204,Haley Greer,Male,21,USA,Resistance Bands,Fitness,1,12.5,2025-02-13,Debit Card,10,4,No
+205,Tammy Travis,Female,39,Australia,Smart Watch,Electronics,2,120,2024-07-27,Debit Card,20,6,No
+206,Jeremy Stone,Male,35,France,Water Bottle,Fitness,4,10,2024-11-26,PayPal,10,7,Yes
+207,Dr. Stacy King,Male,50,Germany,Water Bottle,Fitness,5,10,2024-05-29,Debit Card,20,6,No
+208,David Walsh,Female,46,UAE,Yoga Mat,Fitness,1,20,2024-05-22,PayPal,0,6,No
+209,Robert Stanley,Female,45,Australia,Wireless Mouse,Electronics,4,15.99,2024-06-16,Credit Card,20,2,No
+210,Joseph White,Female,44,Australia,Yoga Mat,Fitness,4,20,2024-10-26,PayPal,10,7,No
+211,Shawn Williams,Male,18,UAE,Headphones,Electronics,5,50,2025-03-11,Credit Card,0,3,No
+212,Jonathan Perez,Female,39,Germany,Yoga Mat,Fitness,2,20,2024-10-03,Credit Card,5,5,No
+213,Carl Smith,Male,55,Germany,Bluetooth Speaker,Electronics,4,35.5,2024-05-10,PayPal,5,7,No
+214,James Martinez,Male,26,China,Smart Watch,Electronics,1,120,2024-11-05,Credit Card,15,2,Yes
+215,Elizabeth Roberts,Female,46,France,Protein Powder,Fitness,1,30,2024-09-24,PayPal,15,2,No
+216,James Herrera,Female,59,Germany,Bluetooth Speaker,Electronics,1,35.5,2024-10-24,Debit Card,5,3,Yes
+217,Jesse Edwards,Female,19,China,Water Bottle,Fitness,3,10,2025-01-30,Debit Card,5,7,No
+218,Shannon Mendez,Male,23,India,Headphones,Electronics,5,50,2024-11-17,Debit Card,5,6,No
+219,Timothy Moyer,Female,53,Australia,Laptop Stand,Electronics,2,25,2024-08-17,Debit Card,0,2,No
+220,Robert Jordan,Male,45,USA,Headphones,Electronics,4,50,2024-09-10,Debit Card,10,5,No
+221,Karen Singleton,Male,30,India,Wireless Mouse,Electronics,2,15.99,2024-08-21,Credit Card,10,6,No
+222,Linda York,Male,29,China,Yoga Mat,Fitness,5,20,2024-07-28,Credit Card,5,5,No
+223,Tracy Reyes,Male,58,Canada,Water Bottle,Fitness,2,10,2025-03-02,Credit Card,20,2,No
+224,Chelsey Schmidt,Female,52,Germany,Bluetooth Speaker,Electronics,5,35.5,2024-07-28,Credit Card,20,3,Yes
+225,Robert Hahn,Female,21,USA,Resistance Bands,Fitness,3,12.5,2024-08-22,Debit Card,15,5,No
+226,Gregory Johnson,Male,42,Mexico,Bluetooth Speaker,Electronics,1,35.5,2024-12-02,Debit Card,15,3,No
+227,Tanya Powell,Female,29,China,Wireless Mouse,Electronics,5,15.99,2025-02-26,Credit Card,0,6,No
+228,John Richards,Male,48,Germany,Laptop Stand,Electronics,4,25,2024-06-12,Debit Card,10,6,No
+229,Jillian Bailey MD,Female,42,China,Protein Powder,Fitness,5,30,2025-02-13,Debit Card,10,7,No
+230,Cynthia Clark,Female,27,Canada,Wireless Mouse,Electronics,1,15.99,2024-08-13,Credit Card,5,6,No
+231,Anne Hamilton,Female,56,USA,Protein Powder,Fitness,2,30,2025-03-17,Credit Card,5,3,No
+232,Joseph Pitts,Female,58,China,Headphones,Electronics,1,50,2024-06-02,Debit Card,0,5,No
+233,Jason Manning,Female,54,China,Bluetooth Speaker,Electronics,1,35.5,2025-02-16,Debit Card,20,3,No
+234,Ian Burton,Male,22,Australia,Resistance Bands,Fitness,1,12.5,2025-03-11,PayPal,5,3,No
+235,Samuel Bryan,Female,29,France,Smart Watch,Electronics,3,120,2025-01-18,PayPal,20,2,Yes
+236,Kyle Boyd,Male,49,UK,Running Shoes,Footwear,3,65,2024-12-06,PayPal,15,7,No
+237,Nichole Rodriguez,Male,40,France,Protein Powder,Fitness,1,30,2025-02-14,PayPal,0,6,No
+238,Shawn Shepherd,Male,29,UK,Laptop Stand,Electronics,2,25,2025-03-06,Credit Card,20,6,No
+239,Joshua Ortega,Female,24,USA,Running Shoes,Footwear,1,65,2024-10-27,Debit Card,15,5,No
+240,David Cortez,Female,48,Germany,Laptop Stand,Electronics,4,25,2025-02-06,Debit Card,10,7,No
+241,Jerry Byrd,Female,29,India,Headphones,Electronics,2,50,2025-03-27,PayPal,0,5,No
+242,Maria Johnson,Female,42,UAE,Smart Watch,Electronics,4,120,2024-11-13,Debit Card,5,3,No
+243,Rachael Olsen,Male,60,Canada,Laptop Stand,Electronics,5,25,2024-12-17,Debit Card,10,4,No
+244,Phillip Ramirez,Female,52,USA,Wireless Mouse,Electronics,5,15.99,2024-08-19,PayPal,10,2,Yes
+245,Timothy Curry,Male,23,India,Yoga Mat,Fitness,2,20,2024-04-25,Debit Card,10,7,No
+246,Mary Adams,Female,35,Mexico,Resistance Bands,Fitness,1,12.5,2024-08-28,Debit Card,0,7,No
+247,Nicholas Morris,Male,48,USA,Laptop Stand,Electronics,1,25,2025-01-07,Credit Card,15,2,No
+248,George Swanson,Male,19,India,Resistance Bands,Fitness,5,12.5,2025-02-12,PayPal,10,7,No
+249,Benjamin Hubbard,Female,19,Canada,Yoga Mat,Fitness,5,20,2025-02-21,PayPal,0,2,No
+250,Matthew Jones,Male,53,USA,Resistance Bands,Fitness,1,12.5,2024-04-19,Debit Card,0,5,No
+251,Ann Fitzpatrick,Male,33,China,Resistance Bands,Fitness,1,12.5,2024-05-12,Credit Card,0,6,No
+252,Carolyn Gray,Female,47,France,Protein Powder,Fitness,3,30,2024-08-10,Credit Card,20,6,No
+253,Ryan Evans,Male,19,Germany,Running Shoes,Footwear,5,65,2024-05-30,Credit Card,10,3,No
+254,Mark Wilson,Female,42,China,Bluetooth Speaker,Electronics,5,35.5,2024-07-28,Credit Card,20,3,No
+255,Kimberly Ferguson,Male,52,Australia,Yoga Mat,Fitness,1,20,2024-09-04,PayPal,0,4,No
+256,Daryl Gomez,Female,30,China,Wireless Mouse,Electronics,2,15.99,2024-04-28,Credit Card,15,2,No
+257,Dr. James Ellis,Female,27,Canada,Yoga Mat,Fitness,4,20,2025-03-27,PayPal,15,5,No
+258,Alison Delgado,Male,31,Australia,Smart Watch,Electronics,5,120,2024-09-30,PayPal,15,7,No
+259,Nicole Johnson,Male,58,France,Water Bottle,Fitness,1,10,2025-04-07,Debit Card,20,2,No
+260,Kenneth Jones,Female,48,UK,Smart Watch,Electronics,4,120,2024-08-05,PayPal,5,3,No
+261,Sandra Mason,Male,52,India,Bluetooth Speaker,Electronics,4,35.5,2024-05-17,Debit Card,0,2,No
+262,Rachel Lewis,Female,60,Germany,Headphones,Electronics,4,50,2024-05-21,Credit Card,5,2,No
+263,George Maldonado,Male,29,China,Bluetooth Speaker,Electronics,1,35.5,2024-07-06,PayPal,20,4,No
+264,Heather Smith,Male,39,France,Smart Watch,Electronics,5,120,2024-09-23,Credit Card,20,3,No
+265,Susan Olson,Female,45,Mexico,Water Bottle,Fitness,3,10,2025-01-16,Credit Card,5,2,No
+266,Sarah Smith,Female,32,Canada,Wireless Mouse,Electronics,2,15.99,2025-02-15,Debit Card,10,6,No
+267,Jennifer Johnson,Male,43,Germany,Protein Powder,Fitness,1,30,2024-05-08,Debit Card,0,6,No
+268,Beth Johnson,Male,32,UK,Laptop Stand,Electronics,5,25,2024-05-07,Debit Card,0,5,No
+269,Keith Everett,Female,29,UK,Headphones,Electronics,1,50,2024-09-10,PayPal,5,5,No
+270,Jennifer Matthews,Male,53,China,Headphones,Electronics,2,50,2024-06-30,Debit Card,5,3,Yes
+271,James Phillips,Female,18,USA,Resistance Bands,Fitness,1,12.5,2024-09-09,PayPal,10,2,No
+272,Charles Huff,Male,48,China,Smart Watch,Electronics,5,120,2025-03-12,Debit Card,5,6,No
+273,Juan Lewis,Female,52,Canada,Yoga Mat,Fitness,3,20,2025-02-22,PayPal,0,7,Yes
+274,Julie Tucker,Male,52,UAE,Wireless Mouse,Electronics,1,15.99,2024-12-26,PayPal,10,4,No
+275,Mario Wilson,Male,32,India,Bluetooth Speaker,Electronics,1,35.5,2024-10-24,Debit Card,15,2,No
+276,Troy Hunt,Female,48,Mexico,Water Bottle,Fitness,3,10,2024-07-13,Debit Card,5,4,No
+277,Jenna Brown,Male,51,Australia,Laptop Stand,Electronics,5,25,2024-06-01,Debit Card,15,7,No
+278,Bridget Gamble,Male,47,Canada,Resistance Bands,Fitness,1,12.5,2024-06-27,Debit Card,5,2,Yes
+279,Christopher Baker,Female,44,France,Water Bottle,Fitness,2,10,2024-05-08,Debit Card,20,3,Yes
+280,Yvonne Cabrera,Male,58,India,Yoga Mat,Fitness,2,20,2024-11-28,PayPal,20,3,No
+281,Kyle Wilkerson,Male,25,China,Headphones,Electronics,2,50,2024-11-25,PayPal,20,2,No
+282,Melissa Davis,Male,53,France,Smart Watch,Electronics,5,120,2025-01-31,PayPal,20,3,No
+283,Lauren Davis,Male,28,Canada,Smart Watch,Electronics,2,120,2024-07-02,PayPal,10,4,No
+284,Paul Adams,Female,46,Mexico,Running Shoes,Footwear,5,65,2025-02-06,PayPal,5,2,Yes
+285,Jeffery Garza,Male,22,UAE,Smart Watch,Electronics,5,120,2025-03-28,Credit Card,20,2,No
+286,Lisa Taylor,Male,43,UAE,Wireless Mouse,Electronics,4,15.99,2024-11-24,PayPal,20,5,No
+287,Jared Wagner,Male,58,China,Resistance Bands,Fitness,4,12.5,2025-01-04,Credit Card,5,6,No
+288,Chase Stout,Female,51,Australia,Laptop Stand,Electronics,3,25,2024-04-16,Debit Card,0,6,No
+289,Michael Gates,Female,30,UAE,Smart Watch,Electronics,1,120,2024-06-14,Credit Card,5,3,No
+290,Brandon Rojas,Male,58,Australia,Protein Powder,Fitness,5,30,2024-12-10,PayPal,10,2,No
+291,Tracy Brown,Female,58,Canada,Protein Powder,Fitness,3,30,2025-01-14,Credit Card,20,2,No
+292,Calvin Hill,Female,29,Mexico,Laptop Stand,Electronics,4,25,2024-11-13,Debit Card,5,2,No
+293,Sherri Hamilton,Female,54,Canada,Resistance Bands,Fitness,1,12.5,2025-02-14,PayPal,20,7,No
+294,Ann Martinez,Female,21,France,Running Shoes,Footwear,5,65,2024-05-30,PayPal,0,3,No
+295,Erica Gray,Female,49,UAE,Yoga Mat,Fitness,2,20,2024-07-29,Credit Card,0,7,Yes
+296,Krista Garcia,Female,33,UAE,Wireless Mouse,Electronics,5,15.99,2024-11-13,PayPal,20,4,No
+297,Angela Richardson,Male,47,Mexico,Protein Powder,Fitness,3,30,2024-09-30,Credit Card,0,7,No
+298,Louis Randall,Male,48,China,Laptop Stand,Electronics,5,25,2024-11-06,PayPal,20,5,No
+299,Thomas Stephens,Male,40,UAE,Yoga Mat,Fitness,4,20,2024-12-02,Debit Card,20,2,No
+300,Robert Reese,Male,59,France,Wireless Mouse,Electronics,5,15.99,2024-05-14,Debit Card,5,5,Yes
+301,Jeremiah Young,Female,26,France,Smart Watch,Electronics,1,120,2025-03-27,PayPal,5,4,No
+302,Laurie Bell,Female,37,China,Yoga Mat,Fitness,1,20,2024-06-16,Credit Card,20,7,No
+303,William Dominguez,Female,28,UK,Protein Powder,Fitness,1,30,2024-07-01,Debit Card,10,4,No
+304,Daniel Chung,Female,35,UAE,Wireless Mouse,Electronics,2,15.99,2024-07-27,Credit Card,10,5,No
+305,Scott Kelly,Female,48,France,Smart Watch,Electronics,4,120,2024-04-23,Credit Card,20,7,No
+306,Jared Brown,Female,24,Mexico,Bluetooth Speaker,Electronics,4,35.5,2025-03-13,PayPal,0,4,No
+307,Paul Lee,Male,31,India,Protein Powder,Fitness,3,30,2025-04-04,Credit Card,10,6,No
+308,Crystal Salinas,Female,55,Germany,Yoga Mat,Fitness,2,20,2024-06-25,Debit Card,0,6,No
+309,Natalie Maldonado,Male,59,Australia,Resistance Bands,Fitness,2,12.5,2024-08-28,Credit Card,15,2,Yes
+310,Traci Wise,Female,47,China,Smart Watch,Electronics,3,120,2024-04-13,Debit Card,15,5,No
+311,Doris Benson,Male,51,USA,Water Bottle,Fitness,4,10,2024-05-28,Credit Card,0,2,No
+312,John Mccormick,Male,26,USA,Laptop Stand,Electronics,4,25,2024-12-08,Debit Card,5,5,Yes
+313,Jeanette Turner,Male,43,India,Headphones,Electronics,1,50,2024-10-05,Credit Card,15,4,No
+314,Eddie Costa,Male,28,UAE,Yoga Mat,Fitness,2,20,2025-04-08,Debit Card,5,3,No
+315,Valerie Nelson,Male,51,USA,Smart Watch,Electronics,3,120,2024-08-03,Debit Card,0,5,No
+316,Kirk Dorsey,Male,55,Canada,Running Shoes,Footwear,2,65,2024-08-03,Credit Card,0,7,No
+317,Darius Herrera,Female,18,India,Water Bottle,Fitness,5,10,2024-07-22,PayPal,10,3,Yes
+318,Karen Edwards,Female,59,China,Bluetooth Speaker,Electronics,5,35.5,2025-01-06,PayPal,0,6,No
+319,Daniel Frazier,Female,39,Germany,Yoga Mat,Fitness,1,20,2024-12-14,PayPal,15,2,No
+320,Amanda Anderson MD,Female,19,Australia,Yoga Mat,Fitness,3,20,2024-05-31,Debit Card,20,7,No
+321,Daniel Foster,Male,31,USA,Resistance Bands,Fitness,3,12.5,2025-02-04,Credit Card,10,7,No
+322,Jeffrey Garcia,Female,25,USA,Smart Watch,Electronics,1,120,2025-03-21,Credit Card,10,4,Yes
+323,George Miller,Female,32,USA,Water Bottle,Fitness,2,10,2024-10-21,PayPal,0,6,Yes
+324,Wayne Rodgers,Female,37,Mexico,Yoga Mat,Fitness,3,20,2024-09-15,PayPal,0,3,No
+325,Jermaine Hernandez,Female,19,Australia,Bluetooth Speaker,Electronics,1,35.5,2025-01-30,Credit Card,0,6,No
+326,Richard Carpenter,Male,38,UK,Protein Powder,Fitness,3,30,2025-01-12,Credit Card,20,2,No
+327,Jared Spence,Female,39,India,Bluetooth Speaker,Electronics,3,35.5,2024-10-29,Credit Card,15,3,No
+328,Spencer Lopez,Female,50,USA,Yoga Mat,Fitness,4,20,2024-08-14,Debit Card,20,4,No
+329,Eric Bell,Male,20,Mexico,Smart Watch,Electronics,4,120,2024-11-30,PayPal,5,5,No
+330,Devin Forbes,Male,40,Australia,Bluetooth Speaker,Electronics,3,35.5,2025-02-07,Debit Card,5,2,No
+331,Tara Parsons,Female,46,India,Water Bottle,Fitness,3,10,2024-11-30,Credit Card,10,3,No
+332,Catherine Green,Female,49,Canada,Protein Powder,Fitness,2,30,2024-07-06,Credit Card,0,5,No
+333,James Garcia,Female,19,Australia,Protein Powder,Fitness,4,30,2024-10-26,Credit Card,0,6,No
+334,Jean Gardner,Male,33,France,Running Shoes,Footwear,5,65,2024-12-22,PayPal,10,2,No
+335,Megan Ferguson,Male,60,USA,Water Bottle,Fitness,2,10,2025-01-19,Credit Card,20,6,No
+336,Shannon Collins,Female,48,Australia,Protein Powder,Fitness,1,30,2025-01-31,Credit Card,5,7,No
+337,Mr. Roberto White,Female,48,UAE,Resistance Bands,Fitness,3,12.5,2024-09-03,PayPal,20,7,No
+338,David Johnson,Female,55,Mexico,Smart Watch,Electronics,1,120,2025-03-05,PayPal,10,4,No
+339,George Price,Female,31,Mexico,Protein Powder,Fitness,4,30,2024-07-16,PayPal,15,3,No
+340,Allison Daniel,Male,24,Australia,Resistance Bands,Fitness,3,12.5,2024-04-14,Credit Card,5,5,No
+341,Jose Rodriguez,Female,60,China,Water Bottle,Fitness,5,10,2024-10-13,Credit Card,5,7,No
+342,Heather Watts MD,Female,27,France,Running Shoes,Footwear,4,65,2025-02-22,Credit Card,15,6,No
+343,Shelby Tran,Male,20,Australia,Water Bottle,Fitness,5,10,2025-01-21,Credit Card,0,2,No
+344,Ashley Edwards,Female,33,France,Running Shoes,Footwear,3,65,2025-01-09,Credit Card,5,5,No
+345,Angela Parker,Male,20,China,Wireless Mouse,Electronics,5,15.99,2024-07-09,Debit Card,20,2,No
+346,Jason Schultz,Male,22,China,Laptop Stand,Electronics,4,25,2025-02-10,PayPal,5,5,No
+347,Crystal Parker,Male,18,UK,Protein Powder,Fitness,1,30,2025-02-03,PayPal,0,5,No
+348,Paul Banks,Male,53,Mexico,Bluetooth Speaker,Electronics,2,35.5,2024-08-04,Credit Card,5,7,No
+349,Ronald Evans,Female,39,Canada,Yoga Mat,Fitness,2,20,2024-04-14,Credit Card,0,5,No
+350,Nicholas Martinez,Female,25,UAE,Protein Powder,Fitness,2,30,2024-05-17,PayPal,15,6,No
+351,Sean Perez,Male,21,Australia,Laptop Stand,Electronics,2,25,2024-07-10,Credit Card,5,5,No
+352,Ronald Potter,Female,56,India,Water Bottle,Fitness,5,10,2024-05-17,Credit Card,5,5,No
+353,Maria Henderson,Male,43,Mexico,Resistance Bands,Fitness,5,12.5,2025-03-22,Debit Card,5,3,No
+354,Melody Joseph,Female,36,France,Headphones,Electronics,3,50,2024-05-01,PayPal,15,7,Yes
+355,Pamela Jimenez,Male,39,UAE,Running Shoes,Footwear,2,65,2025-03-29,Credit Card,0,7,No
+356,Kevin Cannon,Male,49,USA,Smart Watch,Electronics,2,120,2024-07-18,Debit Card,5,4,No
+357,Jonathan Murphy,Male,30,China,Smart Watch,Electronics,1,120,2025-02-19,Debit Card,10,5,No
+358,Jason Ramirez,Female,23,China,Smart Watch,Electronics,3,120,2024-12-30,Debit Card,10,5,No
+359,Rhonda White,Female,36,Mexico,Laptop Stand,Electronics,2,25,2024-10-24,Debit Card,5,5,No
+360,Mason Brooks,Female,48,Mexico,Water Bottle,Fitness,4,10,2024-12-25,Debit Card,10,7,No
+361,Erik Roberson,Male,40,Australia,Yoga Mat,Fitness,3,20,2024-08-05,PayPal,10,5,No
+362,Brian Burton,Female,49,Australia,Resistance Bands,Fitness,2,12.5,2024-10-15,PayPal,5,6,No
+363,Kyle Dalton II,Male,20,USA,Bluetooth Speaker,Electronics,4,35.5,2024-08-02,Debit Card,15,4,Yes
+364,Andrew Harvey,Male,50,UK,Laptop Stand,Electronics,5,25,2024-11-27,Debit Card,20,6,No
+365,Angie Williams,Female,60,India,Yoga Mat,Fitness,5,20,2024-05-23,PayPal,20,3,No
+366,Kenneth Jones,Female,45,Canada,Resistance Bands,Fitness,3,12.5,2024-04-27,PayPal,0,5,No
+367,Haley Malone,Male,58,UAE,Running Shoes,Footwear,2,65,2025-03-25,Debit Card,5,4,Yes
+368,Antonio Wilson,Male,30,USA,Laptop Stand,Electronics,3,25,2024-05-26,Credit Card,5,3,No
+369,Gwendolyn Williams,Female,39,USA,Water Bottle,Fitness,3,10,2025-01-13,Debit Card,15,3,Yes
+370,Caleb Potts,Male,19,USA,Wireless Mouse,Electronics,3,15.99,2024-11-27,Credit Card,15,2,No
+371,Melissa Watson,Male,48,UAE,Wireless Mouse,Electronics,4,15.99,2024-04-17,PayPal,5,5,No
+372,Rachel Graves,Female,39,Germany,Yoga Mat,Fitness,3,20,2024-09-16,Debit Card,0,2,No
+373,Monica Love,Male,28,UK,Resistance Bands,Fitness,5,12.5,2024-06-05,Credit Card,20,2,No
+374,David Young,Male,56,China,Resistance Bands,Fitness,4,12.5,2024-10-06,PayPal,15,6,No
+375,Todd Lopez,Female,49,UAE,Laptop Stand,Electronics,3,25,2024-10-20,Credit Card,10,3,No
+376,Kelly Griffin,Female,60,UK,Protein Powder,Fitness,5,30,2024-10-02,Credit Card,20,4,No
+377,Jamie Hoffman,Female,23,France,Smart Watch,Electronics,1,120,2024-10-05,PayPal,15,5,No
+378,Caitlyn King,Male,58,Canada,Running Shoes,Footwear,5,65,2025-02-03,PayPal,20,7,No
+379,Jennifer Tran,Male,32,USA,Headphones,Electronics,5,50,2024-06-22,Debit Card,0,7,No
+380,Jeffrey Fowler,Female,41,India,Water Bottle,Fitness,3,10,2024-06-21,PayPal,15,6,No
+381,Vincent Robinson,Female,34,UK,Water Bottle,Fitness,2,10,2025-04-06,Credit Card,0,3,No
+382,Karen Dean,Female,39,UK,Wireless Mouse,Electronics,2,15.99,2024-10-14,Credit Card,15,7,No
+383,Joseph Little,Male,51,Australia,Running Shoes,Footwear,3,65,2024-06-12,Debit Card,0,6,No
+384,Courtney Simmons,Male,20,France,Laptop Stand,Electronics,3,25,2024-05-14,Credit Card,15,4,Yes
+385,Kaitlyn Lee,Female,47,India,Protein Powder,Fitness,2,30,2024-07-03,PayPal,10,3,No
+386,Juan Valdez,Female,28,Australia,Laptop Stand,Electronics,2,25,2024-08-25,Credit Card,15,5,No
+387,Laurie Goodman,Male,36,Canada,Protein Powder,Fitness,5,30,2024-05-11,PayPal,20,4,No
+388,Kurt Pitts,Male,27,France,Yoga Mat,Fitness,5,20,2024-10-18,Credit Card,10,4,No
+389,Thomas Odom,Female,24,USA,Yoga Mat,Fitness,3,20,2024-07-27,Debit Card,20,6,No
+390,Nancy Hoffman,Male,43,USA,Headphones,Electronics,2,50,2024-04-24,Debit Card,20,4,No
+391,Robert West,Male,39,India,Running Shoes,Footwear,3,65,2024-09-12,PayPal,0,7,No
+392,Maria Hughes,Male,45,UK,Running Shoes,Footwear,3,65,2025-02-18,Credit Card,0,7,No
+393,Scott Wright,Female,44,India,Running Shoes,Footwear,5,65,2024-07-12,Credit Card,10,3,Yes
+394,Mario Huffman,Male,44,China,Wireless Mouse,Electronics,4,15.99,2025-02-15,Debit Card,20,3,No
+395,Travis Johnston,Female,57,India,Bluetooth Speaker,Electronics,3,35.5,2024-08-16,Credit Card,5,7,No
+396,Cheryl Webster,Male,47,Canada,Laptop Stand,Electronics,5,25,2025-02-09,Debit Card,20,7,No
+397,David Manning,Male,58,China,Protein Powder,Fitness,2,30,2024-07-04,Credit Card,10,2,No
+398,John Andrade,Male,42,UAE,Wireless Mouse,Electronics,4,15.99,2024-07-05,Debit Card,0,5,No
+399,Jacqueline Gardner,Female,18,Germany,Laptop Stand,Electronics,5,25,2024-09-06,Debit Card,15,3,No
+400,Mr. George Garcia DVM,Female,33,India,Headphones,Electronics,4,50,2024-07-11,Credit Card,5,2,No
+401,Lori Munoz,Male,41,Germany,Smart Watch,Electronics,5,120,2025-02-03,PayPal,10,7,No
+402,Heather Brown,Male,40,France,Wireless Mouse,Electronics,3,15.99,2025-01-12,Debit Card,10,2,No
+403,Daniel Kelly,Male,49,China,Bluetooth Speaker,Electronics,5,35.5,2024-07-31,PayPal,5,7,No
+404,Jamie Garza,Male,54,Germany,Laptop Stand,Electronics,5,25,2025-03-20,Debit Card,0,6,No
+405,Amanda Wells,Female,24,China,Resistance Bands,Fitness,3,12.5,2024-12-10,Debit Card,0,4,No
+406,Kelly Goodman,Female,53,China,Wireless Mouse,Electronics,2,15.99,2024-09-08,Debit Card,5,6,No
+407,Veronica Molina,Male,24,UAE,Laptop Stand,Electronics,4,25,2024-07-08,Debit Card,15,4,No
+408,Jo Dickerson,Male,33,Canada,Water Bottle,Fitness,2,10,2025-04-09,Debit Card,0,3,Yes
+409,Joel Lopez,Female,59,Australia,Wireless Mouse,Electronics,2,15.99,2024-04-21,Debit Card,10,4,No
+410,Brian Atkinson,Female,41,Germany,Headphones,Electronics,2,50,2025-01-09,PayPal,5,2,No
+411,Jesus Saunders,Male,37,USA,Smart Watch,Electronics,1,120,2024-12-11,Debit Card,20,5,No
+412,Kayla Ortiz,Female,49,Germany,Smart Watch,Electronics,5,120,2025-02-11,Credit Card,5,4,No
+413,Amy Alvarez,Male,42,Canada,Water Bottle,Fitness,2,10,2024-12-07,Credit Card,20,7,No
+414,Debbie Jones,Female,24,USA,Running Shoes,Footwear,1,65,2024-07-11,PayPal,20,7,No
+415,Leah Sloan,Male,22,Germany,Wireless Mouse,Electronics,2,15.99,2025-03-11,Credit Card,10,3,No
+416,Morgan Garcia,Male,45,Canada,Headphones,Electronics,2,50,2024-10-01,PayPal,10,4,No
+417,Cynthia Ortiz,Female,39,France,Smart Watch,Electronics,3,120,2025-04-07,PayPal,0,5,No
+418,Carlos Burke,Male,43,Canada,Wireless Mouse,Electronics,5,15.99,2024-08-27,Debit Card,0,4,No
+419,Patrick Alvarez,Female,37,France,Water Bottle,Fitness,4,10,2024-09-25,Credit Card,15,3,Yes
+420,Diane Williams,Female,48,Canada,Laptop Stand,Electronics,3,25,2024-12-09,Credit Card,10,3,No
+421,Jonathan Wright,Male,24,Germany,Smart Watch,Electronics,5,120,2024-05-11,Credit Card,0,7,No
+422,Debra Adams,Male,36,China,Laptop Stand,Electronics,1,25,2025-02-02,Credit Card,0,2,No
+423,Donna Bradley,Male,55,France,Bluetooth Speaker,Electronics,5,35.5,2024-06-09,Credit Card,20,7,No
+424,Angela Stewart,Male,54,China,Protein Powder,Fitness,1,30,2024-07-03,Debit Card,15,4,No
+425,Brenda King,Male,26,France,Protein Powder,Fitness,5,30,2025-01-07,PayPal,15,2,No
+426,Shannon Perry,Female,33,Germany,Resistance Bands,Fitness,5,12.5,2024-04-19,Credit Card,20,4,Yes
+427,Amber Moore,Male,22,France,Resistance Bands,Fitness,5,12.5,2025-01-18,Credit Card,0,4,No
+428,Ethan Reed,Female,49,USA,Resistance Bands,Fitness,5,12.5,2025-03-22,PayPal,10,5,No
+429,Isaac Williams,Male,57,Mexico,Wireless Mouse,Electronics,2,15.99,2024-11-08,Debit Card,20,4,No
+430,Erin Dean,Male,21,UAE,Water Bottle,Fitness,2,10,2024-11-10,Credit Card,20,5,No
+431,Claire Bradshaw,Female,27,France,Protein Powder,Fitness,5,30,2025-02-17,Debit Card,15,3,No
+432,Gail Herrera,Male,31,France,Smart Watch,Electronics,2,120,2024-04-30,PayPal,15,2,No
+433,Jill Edwards,Male,32,Canada,Headphones,Electronics,5,50,2025-03-25,PayPal,5,3,No
+434,Linda Hamilton,Male,20,UK,Yoga Mat,Fitness,3,20,2024-08-02,Credit Card,15,6,No
+435,Carolyn Rojas,Female,37,Australia,Yoga Mat,Fitness,1,20,2024-07-13,Debit Card,5,4,No
+436,Jimmy Hudson,Female,54,UAE,Smart Watch,Electronics,2,120,2025-03-21,Debit Card,5,6,No
+437,Michael King,Male,45,UAE,Headphones,Electronics,3,50,2025-04-09,Credit Card,5,5,No
+438,Shawn Kelly,Female,53,UK,Headphones,Electronics,3,50,2024-07-26,PayPal,20,2,No
+439,Brandi Ramirez,Male,21,France,Bluetooth Speaker,Electronics,4,35.5,2024-06-07,PayPal,10,4,No
+440,Kimberly Malone,Male,18,France,Bluetooth Speaker,Electronics,4,35.5,2025-03-05,PayPal,20,2,No
+441,Cynthia Young,Male,38,USA,Running Shoes,Footwear,4,65,2024-07-17,Debit Card,15,3,No
+442,Felicia Gates,Female,53,Mexico,Smart Watch,Electronics,4,120,2024-05-10,PayPal,20,6,No
+443,Nicole Stafford,Female,29,USA,Water Bottle,Fitness,3,10,2024-10-02,Credit Card,0,5,No
+444,Kevin Hughes,Male,56,Australia,Resistance Bands,Fitness,5,12.5,2024-07-11,Credit Card,10,5,No
+445,Erin Michael,Female,57,UK,Headphones,Electronics,5,50,2024-08-26,PayPal,5,2,No
+446,Laura Hubbard,Male,26,UAE,Laptop Stand,Electronics,4,25,2024-05-05,Debit Card,20,6,No
+447,Beverly Roy,Male,24,Canada,Running Shoes,Footwear,2,65,2024-10-21,PayPal,20,6,No
+448,Bradley Mccoy,Female,29,UAE,Water Bottle,Fitness,2,10,2024-05-15,Credit Card,0,4,No
+449,Christina Barnes,Male,33,USA,Water Bottle,Fitness,4,10,2024-11-04,Debit Card,20,6,Yes
+450,Patrick Cherry,Male,30,China,Headphones,Electronics,1,50,2025-03-08,Credit Card,15,6,No
+451,Stephen Torres,Male,60,China,Yoga Mat,Fitness,2,20,2024-11-27,Debit Card,20,5,Yes
+452,James Carroll,Female,37,UK,Bluetooth Speaker,Electronics,1,35.5,2024-07-03,Debit Card,20,2,No
+453,Shirley Flores,Male,27,Mexico,Bluetooth Speaker,Electronics,3,35.5,2025-04-08,Credit Card,20,7,No
+454,Meghan Rivera,Female,39,Australia,Running Shoes,Footwear,1,65,2024-05-01,PayPal,20,3,No
+455,Brendan Clark,Female,44,France,Laptop Stand,Electronics,4,25,2025-04-13,Credit Card,20,5,Yes
+456,Blake Watson,Female,31,UAE,Yoga Mat,Fitness,5,20,2024-05-27,Credit Card,5,2,No
+457,April Sims,Male,23,Canada,Smart Watch,Electronics,3,120,2024-10-01,Credit Card,20,2,No
+458,Ronald Howard,Female,19,Mexico,Water Bottle,Fitness,1,10,2025-03-24,Credit Card,5,2,No
+459,Rebecca Lopez,Male,31,USA,Headphones,Electronics,4,50,2024-11-27,PayPal,10,3,No
+460,Luke Waters,Male,57,Canada,Wireless Mouse,Electronics,1,15.99,2025-02-05,Debit Card,5,6,Yes
+461,Jeffery Johnson,Male,33,India,Bluetooth Speaker,Electronics,5,35.5,2024-11-05,Debit Card,20,3,No
+462,Christopher Wright,Male,27,Germany,Bluetooth Speaker,Electronics,5,35.5,2025-02-10,Debit Card,20,5,No
+463,Karen Escobar,Female,58,Canada,Running Shoes,Footwear,3,65,2024-12-18,Debit Card,0,6,No
+464,Jeffrey Ramirez,Male,31,Australia,Wireless Mouse,Electronics,1,15.99,2024-11-24,Debit Card,0,4,No
+465,Austin Little,Female,41,USA,Resistance Bands,Fitness,2,12.5,2024-05-03,PayPal,20,3,No
+466,Brian Baldwin DDS,Female,48,Germany,Laptop Stand,Electronics,3,25,2024-06-21,Debit Card,5,3,No
+467,Allison Phillips,Male,51,UAE,Water Bottle,Fitness,5,10,2024-09-07,PayPal,5,3,No
+468,Michelle Daniel,Female,48,Germany,Water Bottle,Fitness,1,10,2024-08-04,Debit Card,10,2,No
+469,Eric Pitts,Female,42,UK,Smart Watch,Electronics,4,120,2024-05-31,Credit Card,5,2,Yes
+470,Emily Mathews,Female,29,Canada,Resistance Bands,Fitness,1,12.5,2025-02-16,PayPal,15,7,No
+471,Erica Zavala,Female,34,UK,Headphones,Electronics,4,50,2024-09-21,Credit Card,15,7,No
+472,Richard Anthony,Male,33,India,Water Bottle,Fitness,2,10,2024-08-04,Debit Card,15,7,No
+473,Samantha Garcia,Female,59,Canada,Wireless Mouse,Electronics,1,15.99,2025-02-25,Credit Card,15,2,No
+474,Patrick Fisher,Male,48,Canada,Headphones,Electronics,3,50,2025-03-16,Credit Card,0,5,No
+475,Bonnie Cobb,Female,46,Mexico,Smart Watch,Electronics,1,120,2024-07-27,Credit Card,0,7,No
+476,Terry Bennett,Male,31,UK,Resistance Bands,Fitness,2,12.5,2024-08-24,PayPal,0,6,No
+477,Patrick Owens,Female,29,UK,Headphones,Electronics,2,50,2025-01-28,Credit Card,5,2,Yes
+478,Randy Caldwell,Female,52,UAE,Smart Watch,Electronics,5,120,2025-01-21,PayPal,10,2,No
+479,Jennifer Davis,Female,56,UAE,Headphones,Electronics,5,50,2024-06-15,Credit Card,15,6,No
+480,Gregory Mendoza,Male,23,Australia,Running Shoes,Footwear,4,65,2025-02-08,Debit Card,5,6,No
+481,Maureen Martin,Male,59,Australia,Water Bottle,Fitness,4,10,2025-01-10,PayPal,20,6,No
+482,Austin Fernandez,Male,40,Australia,Running Shoes,Footwear,5,65,2025-01-06,Credit Card,15,2,No
+483,Monica White,Male,43,India,Headphones,Electronics,4,50,2024-04-16,Debit Card,10,4,No
+484,Jesus Ortiz,Male,25,China,Protein Powder,Fitness,3,30,2024-09-07,PayPal,5,7,No
+485,Valerie Morris,Male,19,Germany,Headphones,Electronics,5,50,2025-03-06,Debit Card,20,6,No
+486,Tiffany Guerrero,Female,20,Canada,Protein Powder,Fitness,3,30,2025-03-26,Debit Card,15,2,No
+487,Richard Zavala,Male,47,UAE,Water Bottle,Fitness,5,10,2024-12-07,Credit Card,15,7,No
+488,Alicia May,Female,19,China,Smart Watch,Electronics,3,120,2024-08-23,Credit Card,15,2,No
+489,Donald Herrera,Male,55,Australia,Smart Watch,Electronics,4,120,2024-05-05,Credit Card,20,6,No
+490,Antonio Smith,Male,33,UAE,Smart Watch,Electronics,2,120,2025-03-01,PayPal,10,4,No
+491,Linda Griffin,Male,49,India,Wireless Mouse,Electronics,2,15.99,2024-04-27,PayPal,20,7,No
+492,Mary Lopez,Male,24,Canada,Running Shoes,Footwear,2,65,2025-03-03,Credit Card,0,3,No
+493,Joshua Wilson,Male,22,Australia,Wireless Mouse,Electronics,1,15.99,2024-09-19,Credit Card,20,3,No
+494,Seth Coleman,Male,36,UK,Headphones,Electronics,1,50,2025-01-15,Credit Card,15,6,No
+495,David Vance,Male,18,Australia,Resistance Bands,Fitness,4,12.5,2024-12-07,Debit Card,20,7,No
+496,Karen Ryan,Male,24,UK,Yoga Mat,Fitness,5,20,2025-04-13,Debit Card,15,3,No
+497,Kristy Ashley,Female,18,India,Laptop Stand,Electronics,5,25,2024-09-15,Debit Card,20,4,No
+498,Patrick Roberts,Female,39,Germany,Protein Powder,Fitness,2,30,2025-02-21,Credit Card,15,7,No
+499,Jacob Odonnell,Female,46,UK,Yoga Mat,Fitness,3,20,2024-09-15,Debit Card,15,4,No
+500,Dominic Johnson,Female,52,China,Bluetooth Speaker,Electronics,2,35.5,2024-05-21,Debit Card,0,2,No
+501,Angela Johnson,Male,36,India,Headphones,Electronics,1,50,2024-04-13,Credit Card,10,2,No
+502,Henry Burns,Male,41,Canada,Running Shoes,Footwear,3,65,2024-05-26,Debit Card,20,7,No
+503,Vincent Thompson,Female,34,France,Wireless Mouse,Electronics,4,15.99,2025-01-15,PayPal,0,5,No
+504,Chris Gardner,Female,24,China,Headphones,Electronics,1,50,2024-06-13,PayPal,0,6,No
+505,Patrick Gray,Female,24,India,Yoga Mat,Fitness,3,20,2024-11-17,Debit Card,15,6,No
+506,Alejandro Francis,Female,25,Australia,Smart Watch,Electronics,4,120,2024-05-07,PayPal,15,3,Yes
+507,Linda Bean,Male,38,Canada,Yoga Mat,Fitness,3,20,2025-03-07,Debit Card,20,5,No
+508,Anna Zavala,Female,27,UAE,Bluetooth Speaker,Electronics,4,35.5,2024-10-02,Credit Card,5,4,No
+509,Jordan James,Male,30,Canada,Laptop Stand,Electronics,4,25,2024-04-17,PayPal,5,5,No
+510,Jill Gonzales,Male,45,Australia,Bluetooth Speaker,Electronics,5,35.5,2024-11-02,Credit Card,20,5,No
+511,Samantha Chavez,Female,42,Canada,Resistance Bands,Fitness,5,12.5,2025-02-01,Debit Card,20,4,Yes
+512,Kenneth Hughes,Male,24,UK,Wireless Mouse,Electronics,4,15.99,2024-04-23,Credit Card,5,2,No
+513,Derrick Meyer,Male,47,UAE,Water Bottle,Fitness,3,10,2024-08-05,Debit Card,5,4,No
+514,Natalie Guzman,Female,33,Canada,Smart Watch,Electronics,4,120,2024-09-26,PayPal,0,2,No
+515,Javier Simmons,Female,18,Canada,Protein Powder,Fitness,5,30,2024-11-13,PayPal,20,4,No
+516,Kimberly Mullins,Female,19,France,Bluetooth Speaker,Electronics,5,35.5,2024-04-14,Debit Card,20,2,No
+517,Jennifer Blake,Male,55,USA,Water Bottle,Fitness,2,10,2024-05-03,PayPal,15,2,No
+518,Douglas Malone,Male,50,France,Yoga Mat,Fitness,3,20,2024-11-07,PayPal,20,6,No
+519,Edward Thompson,Female,35,Australia,Smart Watch,Electronics,5,120,2025-03-22,Debit Card,5,4,Yes
+520,Kyle Williams,Male,23,Canada,Protein Powder,Fitness,5,30,2024-10-29,PayPal,0,3,No
+521,Hannah Williams,Female,40,France,Protein Powder,Fitness,4,30,2024-12-09,Debit Card,5,5,No
+522,James Dunn,Female,21,Canada,Wireless Mouse,Electronics,3,15.99,2025-01-05,PayPal,5,2,No
+523,Caitlin Pena,Female,44,UAE,Bluetooth Speaker,Electronics,5,35.5,2025-02-19,Debit Card,5,3,No
+524,Susan Webster,Female,43,India,Wireless Mouse,Electronics,1,15.99,2025-01-22,PayPal,15,4,No
+525,Savannah Hansen,Male,44,USA,Yoga Mat,Fitness,2,20,2024-11-18,Credit Card,15,3,No
+526,Linda Wright,Female,27,Mexico,Yoga Mat,Fitness,3,20,2024-10-28,Debit Card,5,5,No
+527,Scott Randall,Female,50,France,Laptop Stand,Electronics,3,25,2025-03-23,Debit Card,15,2,No
+528,Rachel Mitchell,Male,41,Germany,Wireless Mouse,Electronics,3,15.99,2024-06-27,Debit Card,0,2,No
+529,Diane Johnson,Male,40,Germany,Resistance Bands,Fitness,4,12.5,2024-05-03,Credit Card,0,4,No
+530,Daniel Rodriguez,Female,19,Canada,Laptop Stand,Electronics,3,25,2025-02-14,Credit Card,0,6,No
+531,Emily Smith,Male,26,India,Protein Powder,Fitness,2,30,2024-12-30,PayPal,5,3,No
+532,Deborah Atkins DVM,Female,28,UAE,Smart Watch,Electronics,5,120,2024-10-04,PayPal,10,3,No
+533,David Farmer,Male,36,Australia,Bluetooth Speaker,Electronics,4,35.5,2024-09-17,Credit Card,0,6,Yes
+534,Kevin Carson,Female,43,Australia,Wireless Mouse,Electronics,1,15.99,2024-12-04,PayPal,5,5,No
+535,Eric Guerrero,Female,33,USA,Water Bottle,Fitness,2,10,2024-10-15,Credit Card,20,5,No
+536,Susan Torres,Male,23,China,Protein Powder,Fitness,4,30,2024-08-02,Debit Card,5,4,No
+537,Jasmine Sanchez,Male,32,Germany,Running Shoes,Footwear,3,65,2025-04-09,Debit Card,20,4,No
+538,Rebecca Gardner,Female,44,China,Yoga Mat,Fitness,2,20,2024-07-02,Credit Card,5,5,Yes
+539,James Morgan,Female,41,Australia,Water Bottle,Fitness,5,10,2025-02-17,Debit Card,20,3,No
+540,Phillip Newton,Female,41,Germany,Laptop Stand,Electronics,2,25,2024-10-15,PayPal,10,3,No
+541,George Jones,Female,47,UK,Resistance Bands,Fitness,5,12.5,2024-05-06,Debit Card,15,6,No
+542,Michael Hill,Male,31,UAE,Laptop Stand,Electronics,3,25,2024-04-21,PayPal,5,3,No
+543,Melissa Moss,Male,36,China,Headphones,Electronics,3,50,2025-01-13,Debit Card,5,3,No
+544,Christian Smith,Male,45,Mexico,Smart Watch,Electronics,4,120,2024-06-07,Credit Card,5,3,No
+545,Christopher Davis,Female,46,USA,Yoga Mat,Fitness,4,20,2024-11-26,Debit Card,20,6,No
+546,Christopher Davenport,Female,34,UK,Yoga Mat,Fitness,2,20,2024-06-01,Debit Card,0,4,No
+547,Elizabeth Kemp,Male,29,Germany,Bluetooth Speaker,Electronics,5,35.5,2025-01-14,PayPal,10,5,No
+548,Robert Barnett,Female,30,UAE,Running Shoes,Footwear,3,65,2024-08-11,PayPal,10,6,No
+549,Richard Simmons,Male,29,China,Smart Watch,Electronics,4,120,2024-06-07,Debit Card,5,7,No
+550,Jesus Morris,Female,60,Germany,Running Shoes,Footwear,4,65,2024-06-29,Debit Card,5,5,No
+551,James Jackson,Female,58,China,Smart Watch,Electronics,3,120,2024-06-11,Credit Card,10,2,No
+552,Elizabeth White,Male,48,Germany,Protein Powder,Fitness,3,30,2025-03-16,Debit Card,20,3,No
+553,Sarah Harris,Male,52,France,Protein Powder,Fitness,1,30,2024-07-16,PayPal,10,3,No
+554,Elaine Williams,Female,41,UAE,Smart Watch,Electronics,5,120,2024-12-08,Credit Card,5,7,No
+555,Jason Bishop,Female,54,Australia,Smart Watch,Electronics,2,120,2024-10-10,PayPal,5,3,No
+556,Jordan White,Female,56,UK,Wireless Mouse,Electronics,2,15.99,2024-12-21,Debit Card,0,5,No
+557,Kayla Clark,Male,21,Germany,Smart Watch,Electronics,5,120,2024-10-19,Debit Card,10,4,No
+558,Kelly Welch,Male,49,Mexico,Laptop Stand,Electronics,2,25,2024-09-10,Credit Card,0,4,No
+559,Virginia Griffin,Male,20,USA,Running Shoes,Footwear,1,65,2025-03-14,Debit Card,15,3,No
+560,Brandon Fitzpatrick,Female,21,Australia,Protein Powder,Fitness,1,30,2024-09-11,Debit Card,5,2,No
+561,Tanya Williams,Female,53,UK,Laptop Stand,Electronics,5,25,2024-05-16,PayPal,20,2,No
+562,Latoya Price,Female,21,USA,Protein Powder,Fitness,5,30,2025-01-29,Credit Card,0,6,No
+563,Bianca Townsend,Female,31,Canada,Protein Powder,Fitness,1,30,2024-09-04,Credit Card,10,7,No
+564,Alex Baker,Male,23,Australia,Yoga Mat,Fitness,3,20,2024-06-10,Credit Card,15,4,No
+565,Kyle Jones,Male,34,China,Running Shoes,Footwear,1,65,2024-05-11,Credit Card,15,7,No
+566,Betty Jones,Male,59,USA,Resistance Bands,Fitness,4,12.5,2024-05-12,Credit Card,0,2,No
+567,Kurt Bell MD,Female,58,UK,Bluetooth Speaker,Electronics,5,35.5,2024-04-18,Debit Card,20,4,No
+568,Mary Wood,Male,20,UAE,Protein Powder,Fitness,2,30,2025-02-05,Credit Card,0,6,No
+569,Kevin Downs,Male,56,USA,Wireless Mouse,Electronics,3,15.99,2024-12-03,Credit Card,15,4,No
+570,Isaac Blackburn,Male,28,UK,Smart Watch,Electronics,3,120,2024-12-26,Credit Card,0,7,No
+571,Marcus Richard,Male,52,Canada,Protein Powder,Fitness,2,30,2024-06-26,Debit Card,20,6,No
+572,Rebecca Nolan,Female,52,USA,Running Shoes,Footwear,3,65,2024-11-25,Credit Card,10,6,No
+573,Warren Lopez,Female,53,Mexico,Water Bottle,Fitness,3,10,2024-06-28,Credit Card,0,6,No
+574,Sarah Cox,Male,24,UK,Yoga Mat,Fitness,5,20,2025-04-05,PayPal,20,4,No
+575,Holly Rogers,Female,48,India,Water Bottle,Fitness,1,10,2024-08-14,PayPal,0,6,No
+576,Nicholas Hunter,Female,22,France,Bluetooth Speaker,Electronics,4,35.5,2024-09-29,Credit Card,15,4,No
+577,Samantha Moore,Male,21,Canada,Yoga Mat,Fitness,1,20,2024-11-12,Credit Card,20,4,No
+578,Steven Miranda,Female,30,Mexico,Water Bottle,Fitness,1,10,2024-04-21,Debit Card,5,3,No
+579,Stephanie Wright,Female,25,Mexico,Protein Powder,Fitness,4,30,2024-12-31,PayPal,20,2,No
+580,Gary Cruz,Male,51,China,Smart Watch,Electronics,1,120,2024-11-28,Credit Card,5,5,No
+581,Anthony Ramirez,Male,29,China,Laptop Stand,Electronics,4,25,2024-06-06,Debit Card,0,4,No
+582,Patricia Casey,Female,30,France,Water Bottle,Fitness,5,10,2024-07-26,PayPal,0,4,No
+583,Michael Wise,Male,19,UK,Protein Powder,Fitness,5,30,2024-08-22,Debit Card,10,6,No
+584,Kyle Rodriguez,Female,33,France,Headphones,Electronics,4,50,2024-08-02,Credit Card,20,2,No
+585,Deanna Hall,Male,58,India,Protein Powder,Fitness,4,30,2025-02-10,Credit Card,15,3,No
+586,Andrew Long,Male,23,France,Smart Watch,Electronics,2,120,2024-07-04,Debit Card,5,4,No
+587,Dave Roth,Male,27,UAE,Bluetooth Speaker,Electronics,1,35.5,2025-03-14,PayPal,5,3,No
+588,Nicole Day,Male,33,Germany,Laptop Stand,Electronics,3,25,2025-04-07,Debit Card,5,6,No
+589,Steven Williams,Male,54,Canada,Bluetooth Speaker,Electronics,5,35.5,2024-07-21,Credit Card,0,6,Yes
+590,Terry Decker,Female,39,UK,Wireless Mouse,Electronics,1,15.99,2024-08-11,PayPal,20,2,No
+591,Dr. Darren Watson,Male,37,Australia,Yoga Mat,Fitness,2,20,2024-11-19,Debit Card,15,7,No
+592,Debra Howell,Male,42,Mexico,Laptop Stand,Electronics,1,25,2024-05-06,PayPal,0,7,No
+593,Shane Page,Male,53,UK,Headphones,Electronics,4,50,2024-10-03,Credit Card,10,5,No
+594,Michael Ortiz,Female,58,UAE,Smart Watch,Electronics,5,120,2024-09-09,Debit Card,10,2,No
+595,Stacy Becker,Male,50,Germany,Resistance Bands,Fitness,1,12.5,2024-10-13,PayPal,10,3,No
+596,Paul Wilson,Female,43,Australia,Resistance Bands,Fitness,5,12.5,2024-07-13,PayPal,20,7,Yes
+597,Lisa Morse,Male,44,USA,Protein Powder,Fitness,5,30,2024-12-02,PayPal,20,7,Yes
+598,Emily Odonnell,Male,47,USA,Running Shoes,Footwear,3,65,2024-04-29,Credit Card,15,5,No
+599,Randall Ward,Male,34,China,Laptop Stand,Electronics,2,25,2024-11-06,Debit Card,5,4,No
+600,Sonya Everett,Female,54,China,Protein Powder,Fitness,2,30,2024-09-07,PayPal,10,6,No
+601,Sean Weiss,Female,38,China,Smart Watch,Electronics,2,120,2024-07-27,Credit Card,5,6,No
+602,Emily Aguirre,Male,56,UK,Yoga Mat,Fitness,4,20,2024-05-18,PayPal,10,4,No
+603,Holly Ward,Male,20,Canada,Wireless Mouse,Electronics,3,15.99,2024-12-04,Credit Card,5,3,No
+604,Heather Kelly,Male,28,USA,Bluetooth Speaker,Electronics,2,35.5,2024-08-04,Debit Card,10,2,No
+605,Andrew Webster,Male,44,UAE,Smart Watch,Electronics,4,120,2024-09-09,Debit Card,15,7,No
+606,Jonathan Thomas,Male,27,Mexico,Resistance Bands,Fitness,2,12.5,2024-07-31,Debit Card,20,6,Yes
+607,Sandra Harris,Female,46,Canada,Running Shoes,Footwear,1,65,2025-02-22,PayPal,5,4,No
+608,Corey Perez,Female,45,China,Smart Watch,Electronics,2,120,2024-07-13,Debit Card,10,5,No
+609,Aaron Williams,Male,19,Australia,Yoga Mat,Fitness,4,20,2024-12-31,Debit Card,15,4,No
+610,James Stevens,Female,33,USA,Running Shoes,Footwear,2,65,2025-03-23,Credit Card,20,4,No
+611,David Garcia,Male,29,Germany,Bluetooth Speaker,Electronics,1,35.5,2024-06-10,PayPal,20,5,No
+612,Allison Turner,Female,20,India,Protein Powder,Fitness,1,30,2024-04-27,Debit Card,15,3,No
+613,Donna Torres,Female,40,USA,Laptop Stand,Electronics,5,25,2024-12-20,Credit Card,15,7,No
+614,Nicholas Diaz,Male,58,UAE,Protein Powder,Fitness,3,30,2024-06-02,Debit Card,5,2,No
+615,Casey Brown,Male,57,France,Protein Powder,Fitness,5,30,2024-05-30,Credit Card,0,5,No
+616,Kimberly Smith,Male,60,India,Yoga Mat,Fitness,1,20,2024-04-24,Credit Card,20,7,No
+617,Randy Cole MD,Female,44,India,Laptop Stand,Electronics,4,25,2024-10-17,Credit Card,0,3,No
+618,Kathryn Estrada,Female,33,France,Protein Powder,Fitness,2,30,2025-02-28,Credit Card,15,2,No
+619,Marie Vaughan,Male,20,Mexico,Wireless Mouse,Electronics,4,15.99,2024-08-31,Credit Card,15,5,No
+620,Stephanie White,Male,44,Canada,Headphones,Electronics,2,50,2024-05-23,Debit Card,10,3,No
+621,Erik Velez,Female,50,UK,Water Bottle,Fitness,5,10,2024-09-12,PayPal,15,7,No
+622,Amber Simmons,Male,22,Canada,Protein Powder,Fitness,2,30,2025-01-07,Credit Card,20,3,No
+623,Jason Harrison,Male,52,Mexico,Resistance Bands,Fitness,1,12.5,2024-08-26,Debit Card,5,4,No
+624,Tammy Barker,Female,46,USA,Water Bottle,Fitness,2,10,2024-09-25,Debit Card,5,2,No
+625,Julie Hodges,Male,33,Australia,Bluetooth Speaker,Electronics,3,35.5,2024-05-19,Credit Card,20,3,No
+626,Michael Hunter,Male,45,Mexico,Smart Watch,Electronics,2,120,2024-10-13,Debit Card,0,7,No
+627,Christopher Jones,Male,37,UAE,Yoga Mat,Fitness,3,20,2024-05-07,PayPal,20,3,No
+628,Cameron Allen,Male,52,Australia,Protein Powder,Fitness,1,30,2025-03-28,Credit Card,0,6,No
+629,Ashley Stevens,Female,47,France,Laptop Stand,Electronics,4,25,2025-03-04,PayPal,15,2,No
+630,Andrea Butler,Male,53,France,Protein Powder,Fitness,1,30,2024-05-24,Debit Card,20,3,No
+631,Chris Curry,Female,27,UAE,Laptop Stand,Electronics,3,25,2024-12-27,PayPal,20,7,No
+632,Sarah Jones,Female,39,UAE,Wireless Mouse,Electronics,5,15.99,2024-10-13,Credit Card,20,2,No
+633,Carlos Hill,Male,20,Germany,Running Shoes,Footwear,3,65,2024-11-20,Debit Card,10,7,No
+634,Billy Martinez,Male,24,UAE,Running Shoes,Footwear,1,65,2025-02-27,Credit Card,0,3,No
+635,Eric Everett,Female,33,France,Water Bottle,Fitness,3,10,2024-08-17,PayPal,0,6,No
+636,Kevin Hanson,Female,35,Australia,Smart Watch,Electronics,1,120,2024-09-21,PayPal,20,2,No
+637,Daniel Larson,Male,31,Germany,Water Bottle,Fitness,3,10,2024-04-14,Debit Card,0,6,No
+638,Cynthia Taylor,Male,21,Mexico,Laptop Stand,Electronics,2,25,2024-09-26,PayPal,10,7,No
+639,Jeremy Michael,Female,42,Australia,Yoga Mat,Fitness,4,20,2024-11-06,Credit Card,15,4,No
+640,Jamie Howell,Male,45,Germany,Laptop Stand,Electronics,4,25,2025-03-13,Credit Card,0,4,No
+641,Michelle Jordan,Female,50,India,Smart Watch,Electronics,2,120,2024-10-15,Debit Card,10,7,No
+642,Kelly Bishop,Female,44,Canada,Yoga Mat,Fitness,1,20,2025-03-14,Credit Card,20,2,No
+643,Kristi Wiley,Female,60,China,Water Bottle,Fitness,2,10,2024-12-30,Debit Card,10,5,No
+644,Angela Davis,Male,44,USA,Running Shoes,Footwear,3,65,2024-10-28,PayPal,5,2,No
+645,Heidi Barnett,Female,33,UK,Laptop Stand,Electronics,4,25,2024-10-23,Credit Card,15,7,No
+646,Zachary Davis,Male,55,USA,Wireless Mouse,Electronics,2,15.99,2025-03-06,PayPal,20,3,No
+647,Matthew Gardner,Female,58,Mexico,Running Shoes,Footwear,3,65,2024-09-19,Debit Card,15,4,No
+648,Megan Roberts,Female,56,Canada,Protein Powder,Fitness,4,30,2024-04-13,Credit Card,0,2,No
+649,Jeffrey Lynch,Female,25,China,Smart Watch,Electronics,4,120,2024-04-18,Credit Card,20,5,No
+650,Vanessa Martinez,Male,40,Germany,Smart Watch,Electronics,4,120,2025-01-07,PayPal,10,3,No
+651,Sara Howard,Female,43,India,Headphones,Electronics,4,50,2024-04-16,PayPal,10,4,No
+652,John Pacheco,Male,27,Mexico,Wireless Mouse,Electronics,4,15.99,2025-01-13,Credit Card,0,5,Yes
+653,Jennifer Robertson,Female,55,Mexico,Resistance Bands,Fitness,1,12.5,2025-01-03,Credit Card,5,5,No
+654,James Campbell,Male,35,USA,Smart Watch,Electronics,5,120,2025-03-10,Debit Card,5,4,No
+655,Holly Robertson,Male,32,UAE,Running Shoes,Footwear,4,65,2024-09-15,Credit Card,10,7,No
+656,Micheal Adams,Female,35,UAE,Water Bottle,Fitness,3,10,2024-08-11,PayPal,20,5,No
+657,Kimberly Marks,Female,29,Mexico,Protein Powder,Fitness,5,30,2024-07-20,Debit Card,10,7,No
+658,Carrie Flynn,Female,44,Germany,Yoga Mat,Fitness,5,20,2024-11-23,Debit Card,10,5,Yes
+659,Jennifer Ferguson,Female,39,USA,Headphones,Electronics,2,50,2024-04-24,PayPal,10,4,No
+660,Jordan Pennington,Male,47,India,Yoga Mat,Fitness,5,20,2024-11-11,PayPal,0,6,No
+661,Ricardo Fletcher,Female,60,France,Bluetooth Speaker,Electronics,2,35.5,2025-02-12,PayPal,10,5,No
+662,Rebecca Oliver,Male,29,France,Bluetooth Speaker,Electronics,1,35.5,2025-01-18,Debit Card,20,7,No
+663,Melissa Parks,Male,22,China,Laptop Stand,Electronics,1,25,2025-01-05,Credit Card,10,5,No
+664,Terri Moore,Male,44,India,Protein Powder,Fitness,3,30,2025-03-06,Debit Card,5,4,Yes
+665,Nicole Owens,Female,38,Canada,Laptop Stand,Electronics,1,25,2025-04-13,Debit Card,20,6,No
+666,Evan Richardson,Female,31,India,Resistance Bands,Fitness,2,12.5,2024-06-12,Credit Card,20,3,No
+667,Earl Gibson,Female,41,France,Laptop Stand,Electronics,3,25,2025-01-12,Credit Card,10,2,No
+668,Daniel Acevedo,Male,28,China,Running Shoes,Footwear,4,65,2024-08-22,PayPal,15,4,No
+669,Christopher Frost,Male,41,USA,Smart Watch,Electronics,5,120,2025-02-19,Debit Card,0,5,No
+670,Michael Martin,Female,41,Germany,Smart Watch,Electronics,2,120,2024-08-13,PayPal,10,7,No
+671,Amy Sanchez,Female,36,Germany,Yoga Mat,Fitness,3,20,2025-03-06,Debit Card,5,2,No
+672,Kimberly Chen,Female,34,France,Smart Watch,Electronics,3,120,2025-03-13,Debit Card,10,4,No
+673,Daniel Kirk,Female,42,Canada,Yoga Mat,Fitness,1,20,2024-10-29,PayPal,0,4,Yes
+674,Kayla Craig,Female,42,China,Laptop Stand,Electronics,3,25,2024-11-25,PayPal,5,3,Yes
+675,Raymond Ferguson,Female,25,UK,Water Bottle,Fitness,1,10,2025-03-17,Debit Card,15,4,No
+676,William Benson,Male,55,UAE,Laptop Stand,Electronics,4,25,2024-04-18,PayPal,20,7,Yes
+677,Karl Cummings,Male,29,USA,Headphones,Electronics,5,50,2024-10-21,PayPal,5,6,No
+678,James Allen,Female,36,Canada,Bluetooth Speaker,Electronics,5,35.5,2024-05-20,PayPal,15,2,No
+679,Mr. Steven Ray,Female,34,Australia,Wireless Mouse,Electronics,1,15.99,2025-03-27,Debit Card,5,6,No
+680,Samantha Ramirez,Male,52,Germany,Yoga Mat,Fitness,3,20,2024-07-01,Credit Card,15,2,No
+681,Kara Rich,Female,60,UAE,Headphones,Electronics,2,50,2024-10-13,Credit Card,5,2,No
+682,Amanda Krause,Male,37,Australia,Smart Watch,Electronics,5,120,2024-04-28,PayPal,0,4,No
+683,Chad Taylor,Female,44,UK,Wireless Mouse,Electronics,1,15.99,2024-05-03,Debit Card,10,7,No
+684,Brittany Young,Male,50,Canada,Smart Watch,Electronics,4,120,2024-05-09,Credit Card,5,5,No
+685,Michael Hall,Male,59,Mexico,Running Shoes,Footwear,4,65,2024-08-11,Credit Card,20,6,No
+686,Lisa Williams,Female,27,UAE,Bluetooth Speaker,Electronics,3,35.5,2024-12-05,PayPal,20,5,No
+687,Sean Olson,Male,35,Germany,Running Shoes,Footwear,1,65,2024-10-17,PayPal,5,6,No
+688,Dr. Erin Bennett,Female,18,USA,Headphones,Electronics,1,50,2025-02-19,Debit Card,0,6,No
+689,Margaret Greene,Female,55,India,Water Bottle,Fitness,5,10,2024-12-06,Credit Card,5,6,No
+690,Donald Taylor,Male,31,Australia,Wireless Mouse,Electronics,2,15.99,2024-04-17,PayPal,10,5,No
+691,Julie Brown,Female,31,UAE,Resistance Bands,Fitness,1,12.5,2024-10-07,Credit Card,15,7,No
+692,Brian Davis,Female,20,China,Smart Watch,Electronics,4,120,2024-11-13,Debit Card,10,4,No
+693,Thomas Gonzales,Female,23,Canada,Laptop Stand,Electronics,4,25,2025-03-01,Credit Card,20,3,No
+694,Victoria Meyer,Female,41,Canada,Headphones,Electronics,1,50,2024-09-26,PayPal,5,4,No
+695,Tiffany Barrett,Male,47,China,Laptop Stand,Electronics,2,25,2025-02-05,Debit Card,10,7,No
+696,William Harris,Male,18,UAE,Smart Watch,Electronics,5,120,2024-05-24,Debit Card,0,4,No
+697,Karen Cabrera,Male,30,Germany,Bluetooth Speaker,Electronics,5,35.5,2024-05-01,Debit Card,15,3,Yes
+698,Curtis Flores,Female,40,India,Wireless Mouse,Electronics,3,15.99,2025-01-24,Credit Card,0,6,Yes
+699,Richard Martin,Male,57,China,Laptop Stand,Electronics,4,25,2024-08-21,Credit Card,20,4,No
+700,Carol Acosta,Female,45,France,Wireless Mouse,Electronics,5,15.99,2024-05-06,Credit Card,15,5,No
+701,Charlotte Coffey,Male,31,Canada,Running Shoes,Footwear,3,65,2024-10-31,PayPal,5,4,No
+702,James Mooney,Female,18,USA,Running Shoes,Footwear,5,65,2024-05-09,Credit Card,10,5,No
+703,James Ali,Male,59,Germany,Wireless Mouse,Electronics,5,15.99,2024-12-14,PayPal,0,4,No
+704,Christopher Walker,Female,39,Germany,Headphones,Electronics,1,50,2024-09-04,PayPal,0,6,No
+705,Nicholas Reed,Female,45,India,Running Shoes,Footwear,4,65,2025-01-08,PayPal,10,6,No
+706,Jamie Rice,Female,19,Germany,Water Bottle,Fitness,5,10,2025-01-17,PayPal,0,2,No
+707,Ashley Rios,Female,38,Germany,Bluetooth Speaker,Electronics,5,35.5,2024-04-30,Debit Card,0,3,No
+708,Erin Murphy,Male,34,UK,Smart Watch,Electronics,1,120,2024-06-01,Debit Card,0,6,No
+709,Kelly Reynolds,Male,54,UK,Wireless Mouse,Electronics,2,15.99,2024-06-05,PayPal,5,4,No
+710,Kristina Williamson,Male,52,France,Protein Powder,Fitness,2,30,2025-04-07,Credit Card,15,5,No
+711,Matthew Schroeder,Female,29,UAE,Water Bottle,Fitness,3,10,2024-10-04,Debit Card,20,5,No
+712,David Williams,Male,47,Canada,Wireless Mouse,Electronics,3,15.99,2025-04-09,Debit Card,15,4,Yes
+713,Jimmy Bartlett,Female,42,Australia,Headphones,Electronics,1,50,2024-05-03,PayPal,10,4,No
+714,Rick Dyer,Female,49,Canada,Wireless Mouse,Electronics,5,15.99,2024-10-13,Credit Card,20,2,No
+715,Robert Harper,Female,24,Canada,Water Bottle,Fitness,2,10,2024-05-06,Debit Card,15,7,No
+716,Maria Pham,Female,18,Australia,Headphones,Electronics,3,50,2024-07-22,Credit Card,5,5,No
+717,James Adams,Male,46,Australia,Protein Powder,Fitness,2,30,2024-11-12,Debit Card,10,4,Yes
+718,Diana Holt,Male,50,UAE,Protein Powder,Fitness,1,30,2024-10-17,Credit Card,10,7,No
+719,Abigail Cooper,Female,41,India,Running Shoes,Footwear,3,65,2024-06-10,Debit Card,20,6,No
+720,Jacob Hoffman,Male,33,China,Resistance Bands,Fitness,4,12.5,2024-04-20,Debit Card,15,3,No
+721,Kelly Joseph,Female,37,USA,Yoga Mat,Fitness,3,20,2024-12-28,Debit Card,20,4,Yes
+722,Daniel Hurley,Female,42,Australia,Protein Powder,Fitness,3,30,2025-01-06,PayPal,5,7,No
+723,Sharon Jones,Female,35,India,Headphones,Electronics,2,50,2025-02-23,Credit Card,0,4,No
+724,Jacqueline Ramirez,Male,60,France,Laptop Stand,Electronics,3,25,2025-03-17,Credit Card,5,7,No
+725,Jason Griffin,Male,24,France,Headphones,Electronics,5,50,2025-03-03,Debit Card,10,6,No
+726,Angela Mitchell,Female,59,China,Water Bottle,Fitness,2,10,2024-05-27,Credit Card,5,6,No
+727,Adam Hansen,Female,30,Mexico,Resistance Bands,Fitness,3,12.5,2024-06-28,Debit Card,5,4,No
+728,Stephanie Solis,Female,57,UAE,Protein Powder,Fitness,2,30,2024-07-21,PayPal,0,4,No
+729,Deborah Davidson,Female,36,Canada,Laptop Stand,Electronics,2,25,2024-05-24,Debit Card,10,5,No
+730,Samantha Mahoney,Male,60,USA,Laptop Stand,Electronics,3,25,2025-03-22,Debit Card,20,2,Yes
+731,Melissa Davis,Male,46,USA,Running Shoes,Footwear,2,65,2024-05-19,Credit Card,0,4,No
+732,Brian Wallace,Female,57,UAE,Running Shoes,Footwear,5,65,2025-01-08,Debit Card,15,6,No
+733,Amy Navarro,Male,37,Canada,Laptop Stand,Electronics,4,25,2025-01-15,Debit Card,15,4,No
+734,Ashley Martinez,Female,19,Mexico,Running Shoes,Footwear,4,65,2024-08-31,PayPal,0,2,No
+735,William James,Female,28,Canada,Protein Powder,Fitness,1,30,2025-02-19,Credit Card,15,2,Yes
+736,Stephanie Carter,Male,28,UK,Running Shoes,Footwear,4,65,2024-11-22,Debit Card,5,7,No
+737,Samantha Moody,Male,24,France,Laptop Stand,Electronics,1,25,2025-03-02,Debit Card,0,7,No
+738,Kimberly Todd,Male,33,UK,Laptop Stand,Electronics,5,25,2024-10-17,Credit Card,10,3,No
+739,James Sherman,Female,37,USA,Laptop Stand,Electronics,3,25,2024-12-01,Credit Card,0,2,No
+740,Laura Cruz,Female,52,UAE,Resistance Bands,Fitness,1,12.5,2024-09-05,Credit Card,10,4,No
+741,Makayla Phillips,Female,36,Mexico,Protein Powder,Fitness,2,30,2024-09-20,Credit Card,10,5,Yes
+742,Justin Young,Male,35,China,Water Bottle,Fitness,2,10,2024-07-11,PayPal,10,4,No
+743,Kimberly Fox,Male,23,Canada,Laptop Stand,Electronics,1,25,2025-02-21,Credit Card,20,7,No
+744,Alexander Stone,Female,53,India,Resistance Bands,Fitness,5,12.5,2024-12-13,Debit Card,5,2,No
+745,Rose Romero,Male,58,Germany,Bluetooth Speaker,Electronics,2,35.5,2025-01-22,PayPal,20,7,No
+746,Jeffrey Short,Female,35,Australia,Wireless Mouse,Electronics,3,15.99,2024-12-16,Credit Card,5,4,No
+747,Sarah Price,Male,26,Australia,Yoga Mat,Fitness,2,20,2024-05-11,Debit Card,5,4,No
+748,Samuel Oliver,Female,34,USA,Protein Powder,Fitness,4,30,2025-01-11,Credit Card,10,3,No
+749,Jacob Aguirre,Male,30,UK,Running Shoes,Footwear,2,65,2024-04-19,Credit Card,20,4,No
+750,Ryan Carrillo,Female,52,France,Water Bottle,Fitness,4,10,2024-06-03,Credit Card,0,7,No
+751,Angela Schroeder,Male,20,Germany,Protein Powder,Fitness,3,30,2024-10-02,PayPal,20,7,No
+752,Erin Richard,Female,21,China,Headphones,Electronics,3,50,2024-11-15,Debit Card,5,7,No
+753,Amy Barber,Female,46,Germany,Smart Watch,Electronics,3,120,2024-10-08,Debit Card,5,3,No
+754,Michelle Peters,Male,58,India,Headphones,Electronics,1,50,2025-04-04,PayPal,15,6,Yes
+755,Shane Ortiz,Female,42,Australia,Water Bottle,Fitness,1,10,2024-08-05,PayPal,5,7,No
+756,Jenna Burgess,Male,52,China,Headphones,Electronics,1,50,2025-03-19,Credit Card,10,7,No
+757,Debra King,Female,24,China,Yoga Mat,Fitness,4,20,2024-09-02,PayPal,5,3,No
+758,Sandra Wilson,Male,57,Canada,Resistance Bands,Fitness,1,12.5,2024-05-15,Credit Card,0,4,No
+759,Roy Carpenter,Male,33,UAE,Water Bottle,Fitness,1,10,2024-08-16,PayPal,15,5,No
+760,Daniel Flores,Male,32,USA,Yoga Mat,Fitness,4,20,2025-02-23,Debit Card,20,6,No
+761,Mitchell Moore,Male,18,China,Smart Watch,Electronics,5,120,2024-07-30,Credit Card,20,2,No
+762,Kristen Browning,Male,55,UAE,Running Shoes,Footwear,1,65,2025-01-06,Credit Card,15,6,Yes
+763,Russell Davis,Female,20,France,Yoga Mat,Fitness,3,20,2025-03-11,PayPal,20,5,No
+764,Tara Mitchell,Female,34,UAE,Yoga Mat,Fitness,1,20,2024-10-31,Debit Card,20,4,No
+765,Raymond Boyd,Female,19,Germany,Water Bottle,Fitness,5,10,2024-07-25,PayPal,5,2,Yes
+766,Jennifer Thomas,Male,34,UK,Water Bottle,Fitness,3,10,2024-11-23,PayPal,10,3,No
+767,Paula Snyder,Male,57,Mexico,Protein Powder,Fitness,3,30,2024-07-11,Credit Card,5,6,No
+768,Joseph Griffith,Female,32,Germany,Protein Powder,Fitness,4,30,2025-02-05,Credit Card,15,3,No
+769,Sarah Sanford,Male,22,France,Wireless Mouse,Electronics,2,15.99,2025-04-04,Credit Card,10,4,No
+770,Kelly Smith,Male,58,UAE,Smart Watch,Electronics,4,120,2025-03-04,Credit Card,10,5,No
+771,Katherine Beasley,Male,22,Canada,Bluetooth Speaker,Electronics,2,35.5,2024-10-23,PayPal,10,5,No
+772,Krista Wood,Male,34,UAE,Water Bottle,Fitness,2,10,2024-09-06,Debit Card,5,3,No
+773,Shannon Brown,Male,51,UAE,Bluetooth Speaker,Electronics,4,35.5,2024-09-18,Debit Card,0,4,No
+774,Pamela Henderson,Female,42,China,Laptop Stand,Electronics,2,25,2024-12-03,Credit Card,10,5,No
+775,Jason Johnson,Female,27,Australia,Resistance Bands,Fitness,3,12.5,2024-12-07,Debit Card,10,5,No
+776,Mary Petty,Female,52,Germany,Wireless Mouse,Electronics,1,15.99,2024-06-23,Debit Card,5,5,No
+777,Sierra Pope,Male,31,Canada,Water Bottle,Fitness,5,10,2025-02-23,Debit Card,15,6,No
+778,John Erickson,Male,54,Canada,Wireless Mouse,Electronics,1,15.99,2024-12-03,Credit Card,15,4,No
+779,Stephanie Torres,Male,18,China,Wireless Mouse,Electronics,2,15.99,2024-07-15,Debit Card,5,5,No
+780,Robert Taylor,Female,47,UAE,Headphones,Electronics,3,50,2024-05-20,PayPal,15,5,No
+781,Paul Osborne,Male,38,Canada,Protein Powder,Fitness,1,30,2025-02-20,Debit Card,15,7,Yes
+782,Michael Garrett,Male,44,UAE,Yoga Mat,Fitness,5,20,2024-04-28,Credit Card,0,2,No
+783,Eric Peters,Female,28,Germany,Resistance Bands,Fitness,1,12.5,2025-04-12,Credit Card,5,6,No
+784,Sara Foster,Male,30,Australia,Bluetooth Speaker,Electronics,5,35.5,2024-09-21,PayPal,5,3,No
+785,Calvin Richard,Male,39,USA,Bluetooth Speaker,Electronics,4,35.5,2025-03-30,PayPal,10,5,Yes
+786,Ann Velasquez,Female,23,France,Running Shoes,Footwear,1,65,2024-09-29,PayPal,20,7,No
+787,Barbara Morales,Female,39,Germany,Yoga Mat,Fitness,2,20,2024-10-25,Debit Card,10,2,No
+788,Dylan Martinez,Male,51,India,Running Shoes,Footwear,3,65,2024-05-27,Debit Card,5,6,No
+789,Kyle Diaz,Male,25,France,Running Shoes,Footwear,1,65,2024-05-12,PayPal,10,7,No
+790,Valerie Thompson,Female,39,India,Resistance Bands,Fitness,2,12.5,2024-10-06,Debit Card,0,6,Yes
+791,Briana Richards,Male,55,Germany,Headphones,Electronics,3,50,2024-12-05,PayPal,20,4,No
+792,Hunter Hines,Female,32,Australia,Bluetooth Speaker,Electronics,2,35.5,2025-03-19,PayPal,20,6,No
+793,Barry Kelley,Female,57,Australia,Resistance Bands,Fitness,1,12.5,2024-09-27,Debit Card,15,6,No
+794,Derek Perez,Female,21,Canada,Water Bottle,Fitness,1,10,2024-05-18,Credit Card,15,4,No
+795,Kelly Patterson,Female,33,India,Water Bottle,Fitness,5,10,2025-03-12,Credit Card,10,5,No
+796,Rebecca Williams,Male,53,France,Smart Watch,Electronics,3,120,2024-07-21,Credit Card,10,4,No
+797,Paul Gallagher,Female,18,India,Smart Watch,Electronics,4,120,2024-05-13,Debit Card,20,4,Yes
+798,David Garcia,Male,42,India,Bluetooth Speaker,Electronics,5,35.5,2024-09-21,Credit Card,0,2,No
+799,David Walters,Male,27,Australia,Protein Powder,Fitness,4,30,2024-07-05,PayPal,0,7,Yes
+800,Heather Contreras,Female,26,India,Laptop Stand,Electronics,1,25,2025-03-17,Debit Card,0,7,No
+801,Adam Davis,Female,53,Germany,Wireless Mouse,Electronics,5,15.99,2024-06-11,Debit Card,20,6,No
+802,Timothy Hernandez,Female,49,China,Running Shoes,Footwear,3,65,2025-04-01,PayPal,5,5,No
+803,Linda Williams,Male,58,Germany,Bluetooth Speaker,Electronics,1,35.5,2024-05-20,Credit Card,10,3,Yes
+804,Natalie Hawkins,Male,56,China,Smart Watch,Electronics,3,120,2024-08-27,PayPal,0,7,No
+805,Chad Giles,Female,37,UAE,Wireless Mouse,Electronics,1,15.99,2024-04-19,PayPal,0,4,No
+806,Lori Taylor,Female,48,Canada,Smart Watch,Electronics,5,120,2024-12-28,Debit Card,15,3,No
+807,Ashley Jackson,Female,32,Mexico,Yoga Mat,Fitness,4,20,2025-01-11,Credit Card,5,2,No
+808,Mary Morales,Male,42,France,Resistance Bands,Fitness,3,12.5,2025-03-05,Credit Card,10,6,No
+809,Mr. Spencer Murphy MD,Male,59,Mexico,Resistance Bands,Fitness,4,12.5,2024-11-08,PayPal,5,6,No
+810,Kimberly Moreno,Female,28,Germany,Protein Powder,Fitness,1,30,2025-04-06,PayPal,0,2,Yes
+811,Johnny Wallace,Female,45,UK,Laptop Stand,Electronics,4,25,2024-12-24,Credit Card,20,4,Yes
+812,Michelle Nelson,Female,19,India,Water Bottle,Fitness,2,10,2024-07-27,Debit Card,0,2,Yes
+813,Benjamin Garcia,Female,33,USA,Headphones,Electronics,2,50,2024-10-29,Credit Card,20,6,No
+814,Dylan Anderson,Male,60,Germany,Resistance Bands,Fitness,4,12.5,2025-02-09,Debit Card,20,4,No
+815,Eric Adams,Male,59,UAE,Laptop Stand,Electronics,5,25,2025-02-18,Debit Card,0,6,No
+816,Jason May DDS,Female,22,France,Smart Watch,Electronics,4,120,2025-02-07,Debit Card,20,7,Yes
+817,Joshua Robertson,Male,20,UAE,Yoga Mat,Fitness,1,20,2024-12-19,PayPal,15,5,No
+818,Audrey Green,Male,20,Germany,Yoga Mat,Fitness,2,20,2025-03-19,Debit Card,5,4,No
+819,Derrick Davidson,Male,52,France,Smart Watch,Electronics,4,120,2024-11-12,Credit Card,0,7,No
+820,Ashley Murphy,Female,26,UK,Bluetooth Speaker,Electronics,5,35.5,2024-06-28,PayPal,20,7,No
+821,Karen Perez,Female,20,Mexico,Headphones,Electronics,3,50,2025-04-03,PayPal,0,4,No
+822,Jennifer Thomas,Female,19,UAE,Running Shoes,Footwear,5,65,2024-05-08,PayPal,0,6,No
+823,Andrew Mcknight,Female,58,Mexico,Bluetooth Speaker,Electronics,4,35.5,2025-03-29,Debit Card,5,5,No
+824,Lisa Perkins,Male,50,UK,Smart Watch,Electronics,1,120,2024-04-25,Credit Card,0,5,No
+825,Linda Wilson,Female,46,China,Yoga Mat,Fitness,4,20,2024-06-22,Debit Card,15,4,Yes
+826,Sheena Torres,Male,48,UAE,Bluetooth Speaker,Electronics,1,35.5,2025-01-08,Credit Card,20,6,No
+827,Jeffery Castro,Male,28,China,Bluetooth Speaker,Electronics,5,35.5,2024-08-13,Credit Card,0,7,No
+828,Teresa Swanson,Male,60,Australia,Yoga Mat,Fitness,4,20,2025-03-08,PayPal,10,3,No
+829,Patrick Rodriguez,Female,57,Australia,Resistance Bands,Fitness,3,12.5,2024-11-01,Credit Card,5,6,Yes
+830,Zachary Turner,Male,57,Mexico,Smart Watch,Electronics,5,120,2024-09-27,PayPal,15,5,Yes
+831,Daniel Rojas,Female,54,China,Water Bottle,Fitness,3,10,2024-04-30,Debit Card,15,2,No
+832,Kristin Sanchez,Female,35,UK,Wireless Mouse,Electronics,1,15.99,2024-06-10,Debit Card,0,2,No
+833,Kathy Woods,Female,55,Mexico,Running Shoes,Footwear,4,65,2024-07-17,Debit Card,10,6,No
+834,Brenda Morales,Male,38,France,Headphones,Electronics,2,50,2024-06-11,Debit Card,10,5,No
+835,Debbie Diaz,Female,18,Canada,Headphones,Electronics,1,50,2024-07-30,PayPal,5,3,No
+836,Alyssa Thompson,Female,24,UAE,Smart Watch,Electronics,4,120,2024-11-26,PayPal,0,6,No
+837,Lisa Lynch,Male,33,Mexico,Protein Powder,Fitness,1,30,2025-03-05,PayPal,15,6,No
+838,Michael Wilson,Female,25,USA,Laptop Stand,Electronics,2,25,2024-07-19,Credit Card,0,4,No
+839,Tammy Poole,Female,51,Canada,Yoga Mat,Fitness,1,20,2024-08-28,PayPal,0,3,No
+840,Brandon Freeman,Female,30,Australia,Laptop Stand,Electronics,5,25,2024-10-09,Credit Card,15,6,No
+841,Edwin Thompson MD,Male,21,Australia,Wireless Mouse,Electronics,1,15.99,2024-12-09,PayPal,10,4,No
+842,Timothy Black,Male,39,UAE,Water Bottle,Fitness,4,10,2024-11-14,Credit Card,15,2,No
+843,Robert King,Male,51,Canada,Running Shoes,Footwear,2,65,2025-02-27,PayPal,0,5,No
+844,Robert Mitchell,Female,54,India,Protein Powder,Fitness,5,30,2024-11-07,PayPal,10,2,No
+845,Carmen Washington,Female,56,Mexico,Water Bottle,Fitness,5,10,2024-07-05,Credit Card,5,7,No
+846,Sheila Brandt,Female,38,France,Headphones,Electronics,1,50,2025-03-10,Credit Card,10,7,No
+847,Natasha Reeves,Male,26,Germany,Water Bottle,Fitness,1,10,2024-09-17,Debit Card,10,5,No
+848,Tristan Webb,Male,38,UK,Headphones,Electronics,2,50,2025-02-25,Debit Card,20,6,Yes
+849,Eric Potter,Male,37,UAE,Laptop Stand,Electronics,1,25,2024-06-16,PayPal,5,6,No
+850,Joseph Stanley,Female,47,India,Wireless Mouse,Electronics,3,15.99,2024-08-31,Credit Card,5,4,No
+851,Bethany Peterson,Male,37,Australia,Running Shoes,Footwear,2,65,2024-08-08,PayPal,0,6,No
+852,Courtney Griffin,Male,52,France,Laptop Stand,Electronics,5,25,2024-04-16,Credit Card,20,7,Yes
+853,Kevin Flynn,Male,20,Canada,Yoga Mat,Fitness,2,20,2024-09-17,Credit Card,10,7,No
+854,Craig Cole,Female,53,USA,Wireless Mouse,Electronics,1,15.99,2024-12-21,PayPal,0,5,No
+855,Jamie Hancock,Male,41,France,Yoga Mat,Fitness,2,20,2025-03-30,Debit Card,0,7,No
+856,Stephanie Brown,Female,21,Germany,Protein Powder,Fitness,1,30,2024-06-14,PayPal,5,5,Yes
+857,Destiny Thornton,Male,47,USA,Headphones,Electronics,1,50,2025-03-21,Credit Card,20,7,No
+858,Alexa Moore,Female,18,Germany,Running Shoes,Footwear,2,65,2024-10-26,Credit Card,15,2,No
+859,Stephen Hammond,Female,56,USA,Water Bottle,Fitness,3,10,2024-08-20,PayPal,5,3,No
+860,Bryan Kelly,Female,23,UAE,Laptop Stand,Electronics,5,25,2024-06-23,Debit Card,0,7,No
+861,Crystal Flynn,Male,29,Canada,Yoga Mat,Fitness,5,20,2024-08-02,Credit Card,15,3,No
+862,Colleen Thompson,Male,42,USA,Bluetooth Speaker,Electronics,5,35.5,2025-03-09,Debit Card,5,6,No
+863,Todd Little DVM,Female,26,Canada,Wireless Mouse,Electronics,2,15.99,2024-05-04,Debit Card,5,5,No
+864,Madison Lambert,Male,57,France,Yoga Mat,Fitness,4,20,2024-04-16,Credit Card,10,7,No
+865,Paula Hale,Female,32,India,Bluetooth Speaker,Electronics,5,35.5,2024-05-23,Debit Card,20,5,No
+866,Jared Smith,Female,33,France,Bluetooth Speaker,Electronics,3,35.5,2024-07-29,Credit Card,5,3,No
+867,Colton Moore,Female,20,Mexico,Running Shoes,Footwear,2,65,2024-08-28,Credit Card,0,6,No
+868,Denise Robinson,Male,36,UAE,Resistance Bands,Fitness,2,12.5,2025-02-17,PayPal,5,2,No
+869,Michael Miller,Male,41,Canada,Water Bottle,Fitness,3,10,2025-01-05,Credit Card,20,7,No
+870,Kaitlyn Dunlap,Female,32,Canada,Bluetooth Speaker,Electronics,1,35.5,2024-12-22,PayPal,15,4,No
+871,Dean Walker,Female,41,France,Smart Watch,Electronics,5,120,2024-11-09,Credit Card,10,5,No
+872,Caitlin Erickson,Male,54,Germany,Protein Powder,Fitness,5,30,2024-08-26,Credit Card,5,3,No
+873,Patrick Wright,Female,26,Canada,Laptop Stand,Electronics,3,25,2025-04-13,PayPal,20,5,No
+874,Dr. Justin Kelly,Male,26,Mexico,Smart Watch,Electronics,2,120,2025-03-13,Credit Card,10,2,No
+875,Leonard Brown,Female,44,Australia,Running Shoes,Footwear,4,65,2024-12-18,Debit Card,0,7,No
+876,Keith Blair,Male,29,France,Resistance Bands,Fitness,3,12.5,2024-12-06,PayPal,15,3,No
+877,Cathy Frank,Male,31,China,Water Bottle,Fitness,2,10,2024-06-14,Debit Card,20,7,Yes
+878,Michele Shah,Female,59,UK,Wireless Mouse,Electronics,4,15.99,2024-07-09,Credit Card,5,3,No
+879,James Goodman,Male,18,Canada,Smart Watch,Electronics,4,120,2024-06-21,PayPal,15,2,Yes
+880,Jared Watkins,Male,41,China,Headphones,Electronics,2,50,2024-09-23,Debit Card,20,6,No
+881,Jamie Townsend,Male,52,India,Headphones,Electronics,3,50,2024-09-06,Debit Card,15,5,No
+882,Harold White,Male,58,Germany,Laptop Stand,Electronics,5,25,2024-11-04,Credit Card,20,3,No
+883,Joan Estrada,Female,41,USA,Laptop Stand,Electronics,4,25,2025-02-21,Debit Card,10,5,No
+884,Miguel Leon,Male,35,Canada,Resistance Bands,Fitness,2,12.5,2024-05-23,PayPal,0,3,No
+885,Melissa Jones,Female,52,UAE,Running Shoes,Footwear,1,65,2024-07-04,PayPal,15,7,No
+886,Timothy Flynn,Female,40,Canada,Wireless Mouse,Electronics,4,15.99,2024-11-15,Credit Card,15,5,No
+887,Scott Robinson,Female,18,USA,Smart Watch,Electronics,2,120,2024-10-30,Credit Card,10,4,No
+888,Gilbert Yoder,Female,30,China,Water Bottle,Fitness,5,10,2024-08-30,PayPal,5,5,No
+889,Barry Little,Male,44,UAE,Protein Powder,Fitness,2,30,2024-11-11,PayPal,15,3,No
+890,Edwin Price,Male,42,Canada,Wireless Mouse,Electronics,5,15.99,2024-10-31,Credit Card,5,5,No
+891,Anthony Black,Female,59,France,Smart Watch,Electronics,4,120,2024-05-08,Credit Card,0,3,Yes
+892,Mary Schwartz,Male,56,Germany,Bluetooth Speaker,Electronics,5,35.5,2025-02-27,Debit Card,15,5,No
+893,Gregory Ramsey,Female,59,Mexico,Running Shoes,Footwear,2,65,2024-04-15,Debit Card,15,6,No
+894,Catherine Gonzalez,Female,42,France,Wireless Mouse,Electronics,3,15.99,2024-06-03,Credit Card,20,5,No
+895,Kathy Marquez,Female,41,Australia,Bluetooth Speaker,Electronics,5,35.5,2024-11-24,Debit Card,5,6,No
+896,Marc Moore,Female,36,Australia,Headphones,Electronics,3,50,2024-05-13,Debit Card,0,3,No
+897,Daniel Phillips,Female,24,India,Laptop Stand,Electronics,5,25,2024-10-16,Debit Card,20,6,No
+898,Ryan Scott,Female,29,Germany,Laptop Stand,Electronics,2,25,2025-02-15,Debit Card,0,5,No
+899,Kaitlin Massey,Male,32,Mexico,Protein Powder,Fitness,4,30,2024-09-06,PayPal,5,3,No
+900,Lauren Shelton,Female,21,China,Water Bottle,Fitness,5,10,2024-08-11,Debit Card,15,7,No
+901,Joshua Mullen,Male,59,Australia,Smart Watch,Electronics,1,120,2024-12-14,PayPal,5,7,No
+902,Christopher Anderson,Male,46,France,Water Bottle,Fitness,3,10,2024-08-28,Credit Card,0,4,No
+903,Paula Joseph,Female,22,UAE,Running Shoes,Footwear,5,65,2024-07-16,PayPal,20,2,No
+904,Michael Norton,Male,59,USA,Water Bottle,Fitness,2,10,2024-08-12,PayPal,0,7,No
+905,Joann Aguirre,Male,32,UAE,Yoga Mat,Fitness,2,20,2024-08-16,Debit Card,0,2,No
+906,Jessica Marks,Male,31,France,Headphones,Electronics,1,50,2024-12-11,Credit Card,20,6,No
+907,Mark Chen,Male,45,France,Water Bottle,Fitness,3,10,2024-10-19,Debit Card,5,2,No
+908,Eric Owens,Male,44,Canada,Running Shoes,Footwear,3,65,2024-06-28,PayPal,20,5,No
+909,Catherine Bates,Male,26,China,Wireless Mouse,Electronics,3,15.99,2024-12-05,PayPal,0,2,No
+910,Luis Huerta,Female,20,Canada,Resistance Bands,Fitness,1,12.5,2024-04-20,Debit Card,0,5,No
+911,Isaac Peterson,Male,52,Mexico,Resistance Bands,Fitness,4,12.5,2024-12-13,PayPal,20,6,No
+912,Olivia Fletcher,Female,34,Canada,Protein Powder,Fitness,1,30,2024-11-26,PayPal,20,7,No
+913,James Henry,Male,20,Mexico,Headphones,Electronics,1,50,2024-08-14,PayPal,0,3,No
+914,Melissa Barnes,Female,31,Australia,Running Shoes,Footwear,2,65,2024-12-10,Debit Card,5,2,No
+915,Kathy Collins,Male,37,USA,Headphones,Electronics,4,50,2025-02-16,Debit Card,5,5,Yes
+916,Jessica Stewart,Female,44,USA,Water Bottle,Fitness,1,10,2024-07-10,Credit Card,15,4,No
+917,Chad Proctor,Male,31,Canada,Yoga Mat,Fitness,1,20,2024-07-28,Debit Card,10,4,No
+918,Frank Rodriguez,Female,54,China,Headphones,Electronics,3,50,2024-05-02,Debit Card,20,3,No
+919,Elizabeth Alvarez,Male,18,China,Laptop Stand,Electronics,3,25,2025-03-21,Debit Card,15,6,Yes
+920,Rebecca Murray,Male,26,India,Laptop Stand,Electronics,2,25,2024-11-15,Credit Card,10,3,No
+921,Amanda Hernandez,Female,60,UAE,Running Shoes,Footwear,5,65,2025-02-21,Credit Card,5,2,No
+922,Sarah Smith,Male,20,Canada,Water Bottle,Fitness,1,10,2024-04-18,Debit Card,5,4,No
+923,Tracy Hall,Male,46,USA,Protein Powder,Fitness,2,30,2024-10-11,Debit Card,10,4,No
+924,Brittany Schwartz,Female,43,UK,Wireless Mouse,Electronics,3,15.99,2025-01-13,Credit Card,15,5,No
+925,Eric Fritz,Male,31,Germany,Smart Watch,Electronics,2,120,2025-03-24,PayPal,0,3,No
+926,Clayton Gardner MD,Female,43,Canada,Smart Watch,Electronics,2,120,2024-06-03,Credit Card,15,4,No
+927,Samantha Jones,Female,30,China,Smart Watch,Electronics,5,120,2024-12-16,PayPal,0,5,No
+928,Ashley Sherman,Male,33,UAE,Headphones,Electronics,3,50,2025-02-16,Credit Card,5,5,No
+929,Cristian Estrada,Male,40,UAE,Resistance Bands,Fitness,5,12.5,2024-11-23,Credit Card,10,2,No
+930,Amber Turner,Female,22,UAE,Resistance Bands,Fitness,1,12.5,2024-04-20,Credit Card,10,2,No
+931,Jessica Odonnell,Female,32,India,Running Shoes,Footwear,4,65,2024-07-09,Credit Card,20,2,No
+932,Nicole Juarez,Female,35,USA,Bluetooth Speaker,Electronics,1,35.5,2025-01-02,PayPal,15,4,No
+933,Monica Daniels,Male,56,Germany,Bluetooth Speaker,Electronics,4,35.5,2024-06-25,PayPal,20,4,No
+934,Aaron Lewis,Male,31,Australia,Wireless Mouse,Electronics,4,15.99,2024-05-27,Debit Card,10,3,No
+935,Jordan Cunningham,Female,58,Germany,Running Shoes,Footwear,4,65,2024-07-03,Debit Card,0,3,Yes
+936,Jonathan Monroe,Female,42,UK,Resistance Bands,Fitness,4,12.5,2024-08-23,PayPal,20,4,No
+937,Ashley Miranda,Male,40,Australia,Water Bottle,Fitness,5,10,2024-12-17,PayPal,20,5,No
+938,Andrew Pena,Female,20,Germany,Smart Watch,Electronics,1,120,2024-09-23,PayPal,20,5,No
+939,Marcus Peterson,Male,43,China,Laptop Stand,Electronics,4,25,2024-06-02,Credit Card,10,3,No
+940,Pamela Alexander,Male,53,Australia,Protein Powder,Fitness,1,30,2024-05-01,Debit Card,20,5,No
+941,Sarah Goodman,Male,33,Mexico,Headphones,Electronics,4,50,2024-09-25,Credit Card,5,4,No
+942,Joanna Barnett,Female,56,France,Wireless Mouse,Electronics,2,15.99,2024-04-13,Credit Card,15,6,No
+943,Christopher Gonzalez,Male,19,UK,Smart Watch,Electronics,5,120,2024-07-01,Debit Card,20,2,No
+944,Taylor Robertson,Female,52,USA,Headphones,Electronics,2,50,2025-04-04,Debit Card,10,2,No
+945,Linda Norton,Female,32,Canada,Yoga Mat,Fitness,5,20,2024-08-17,Credit Card,15,6,No
+946,James Jackson,Male,24,India,Running Shoes,Footwear,2,65,2024-08-17,PayPal,5,2,No
+947,Allison Howard,Male,44,Australia,Laptop Stand,Electronics,3,25,2024-07-04,PayPal,0,5,No
+948,Kristine Stone,Male,23,Mexico,Bluetooth Speaker,Electronics,5,35.5,2025-02-18,Debit Card,0,6,Yes
+949,Chelsea Scott,Female,44,UAE,Laptop Stand,Electronics,1,25,2025-03-05,PayPal,10,5,Yes
+950,Kaitlyn Parker,Male,48,China,Resistance Bands,Fitness,5,12.5,2025-03-04,PayPal,15,6,No
+951,Patricia Tapia,Female,55,China,Bluetooth Speaker,Electronics,2,35.5,2024-06-12,Debit Card,20,2,No
+952,Michael Soto,Male,19,Canada,Bluetooth Speaker,Electronics,1,35.5,2024-05-09,Debit Card,15,4,No
+953,Lindsay Smith,Male,50,UK,Bluetooth Speaker,Electronics,5,35.5,2024-10-14,PayPal,0,7,No
+954,Amy Garcia,Male,49,China,Yoga Mat,Fitness,4,20,2025-01-23,Debit Card,5,2,No
+955,Kimberly Patterson,Female,54,India,Protein Powder,Fitness,4,30,2024-11-17,Credit Card,5,5,No
+956,Ashley Bennett,Male,21,UK,Running Shoes,Footwear,5,65,2024-09-02,Debit Card,15,3,No
+957,Aaron Rose,Female,23,Germany,Resistance Bands,Fitness,2,12.5,2025-03-16,Credit Card,20,3,No
+958,Jacob Brown,Female,48,Australia,Water Bottle,Fitness,2,10,2025-01-03,Credit Card,15,6,No
+959,David Wilson,Male,49,India,Laptop Stand,Electronics,3,25,2025-03-24,PayPal,20,4,No
+960,Timothy Walker,Female,44,China,Resistance Bands,Fitness,3,12.5,2024-10-04,Debit Card,20,5,No
+961,James Lucas,Male,27,Canada,Running Shoes,Footwear,4,65,2024-07-22,Debit Card,15,4,No
+962,Cassandra Brandt,Female,53,UAE,Headphones,Electronics,4,50,2025-01-18,PayPal,15,4,No
+963,Nicolas Hart,Male,39,France,Wireless Mouse,Electronics,4,15.99,2024-08-20,PayPal,20,5,No
+964,Paul Chavez,Male,37,USA,Resistance Bands,Fitness,4,12.5,2024-09-24,Debit Card,0,2,No
+965,Matthew James,Female,57,France,Running Shoes,Footwear,5,65,2025-02-16,Credit Card,15,6,No
+966,Audrey Johnson,Male,58,UAE,Smart Watch,Electronics,1,120,2024-11-30,Credit Card,5,4,No
+967,Paul Carson,Male,18,Mexico,Wireless Mouse,Electronics,4,15.99,2024-08-25,PayPal,5,7,No
+968,George Dickson,Female,23,USA,Wireless Mouse,Electronics,4,15.99,2024-12-16,PayPal,5,7,Yes
+969,Carol Daniel,Female,33,Australia,Yoga Mat,Fitness,3,20,2024-07-11,Credit Card,0,2,No
+970,Ann Whitaker,Male,43,UAE,Protein Powder,Fitness,5,30,2024-05-07,Debit Card,0,4,No
+971,Robert Smith,Female,41,India,Running Shoes,Footwear,4,65,2025-03-10,Debit Card,15,6,No
+972,Jeffrey Lewis,Male,27,Australia,Running Shoes,Footwear,2,65,2024-11-26,PayPal,0,6,No
+973,Amanda Allen,Female,32,Germany,Headphones,Electronics,1,50,2024-09-01,Credit Card,10,7,No
+974,Anita Foley,Male,18,Mexico,Yoga Mat,Fitness,3,20,2025-03-22,PayPal,10,5,No
+975,Tammy Goodman,Female,55,UK,Laptop Stand,Electronics,3,25,2024-09-29,Debit Card,15,4,No
+976,Darren Bailey,Male,36,Mexico,Running Shoes,Footwear,3,65,2025-01-22,Credit Card,10,4,No
+977,Julie Hunter,Male,56,Australia,Laptop Stand,Electronics,4,25,2025-01-19,PayPal,0,6,No
+978,Cynthia Martinez,Male,26,Australia,Wireless Mouse,Electronics,3,15.99,2024-10-01,Debit Card,5,4,No
+979,Peter Cook,Female,46,UAE,Water Bottle,Fitness,3,10,2024-12-07,Debit Card,0,7,Yes
+980,Erin Harris,Female,22,Mexico,Bluetooth Speaker,Electronics,1,35.5,2025-01-21,PayPal,10,5,No
+981,Mary Patterson,Female,54,India,Laptop Stand,Electronics,5,25,2024-06-08,Debit Card,0,2,No
+982,Anna Thompson,Male,52,Canada,Water Bottle,Fitness,2,10,2024-08-23,Debit Card,15,3,No
+983,Kyle Kirk,Female,22,Canada,Resistance Bands,Fitness,1,12.5,2024-06-12,Debit Card,20,2,No
+984,William Tapia,Female,49,India,Resistance Bands,Fitness,3,12.5,2024-07-28,PayPal,15,7,No
+985,Lee King,Female,21,USA,Headphones,Electronics,1,50,2024-05-09,Debit Card,15,4,Yes
+986,Nicholas Carrillo,Female,40,UAE,Protein Powder,Fitness,1,30,2025-01-10,Debit Card,10,2,Yes
+987,Shawn Thomas,Male,31,USA,Bluetooth Speaker,Electronics,4,35.5,2024-11-03,Credit Card,15,3,No
+988,Joshua Green,Female,25,Australia,Water Bottle,Fitness,3,10,2025-02-05,PayPal,15,2,No
+989,Kristy Miller,Female,40,UAE,Laptop Stand,Electronics,4,25,2025-02-24,Credit Card,15,4,No
+990,Austin Contreras,Male,25,Germany,Water Bottle,Fitness,2,10,2024-06-03,PayPal,0,2,No
+991,Joshua Gordon,Female,25,Germany,Wireless Mouse,Electronics,1,15.99,2024-06-19,Credit Card,0,4,No
+992,Jacob Mccoy,Female,54,Mexico,Protein Powder,Fitness,2,30,2024-08-23,Credit Card,20,2,No
+993,John Ramsey,Female,27,USA,Water Bottle,Fitness,3,10,2024-06-25,Credit Card,10,7,No
+994,Wendy Morton,Male,40,UAE,Water Bottle,Fitness,3,10,2024-08-25,Credit Card,10,5,No
+995,Mary Marquez,Male,43,UAE,Protein Powder,Fitness,5,30,2025-03-11,Debit Card,5,4,No
+996,John Caldwell,Male,56,Mexico,Wireless Mouse,Electronics,4,15.99,2024-06-29,Debit Card,15,5,No
+997,Elizabeth Jordan,Female,27,UAE,Protein Powder,Fitness,5,30,2024-08-12,PayPal,5,5,No
+998,Gloria Roach,Female,30,USA,Laptop Stand,Electronics,4,25,2025-01-16,Credit Card,10,4,No
+999,Jessica Frank,Male,40,India,Running Shoes,Footwear,3,65,2024-05-04,Debit Card,10,7,No
+1000,Lori Hernandez,Male,27,China,Laptop Stand,Electronics,3,25,2024-09-21,Debit Card,15,3,No
